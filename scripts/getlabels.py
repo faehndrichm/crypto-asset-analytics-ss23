@@ -42,6 +42,10 @@ def main():
     print("found contracts in smart-contract-sanctuary-ethereum: " + str(total_count))
     print("mapped contracts: " + str(len(labelled_contracts)))
 
+    json_object = json.dumps(labelled_contracts)
+    with open("labelled_contracts.json", "w") as outfile:
+        outfile.write(json_object)
+
 
 if __name__ == "__main__":
     main()
