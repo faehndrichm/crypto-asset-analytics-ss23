@@ -1,0 +1,1214 @@
+[
+  {
+    "label": "cdp",
+    "text": "name stop approve guy wad setowner owner totalsupply transferfrom src dst wad decimals mint guy wad burn wad setname name balanceof src stopped setauthority authority owner symbol burn guy wad mint wad transfer dst wad push dst wad move src dst wad start authority approve guy allowance src guy pull src wad mint guy wad burn guy wad logsetauthority authority logsetowner owner lognote sig guy foo bar wad fax transfer from to value approval owner spender value"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender amount changedname oldname newname changedsymbol oldsybmol newsybmol delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minterchanged oldminter newminter newimplementation oldimplementation newimplementation transfer from to amount transferpaused minter transferunpaused minter setimplementation implementation decimals implementation instaindex name symbol totalsupply"
+  },
+  {
+    "label": "liquid-staking",
+    "text": "approval owner spender value rplfixedsupplyburn from amount time rplinflationlog sender value inflationcalctime transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue getinflationcalctime getinflationintervalrate getinflationintervalstarttime getinflationintervaltime getinflationintervalspassed getinflationrewardscontractaddress increaseallowance spender addedvalue inflationcalculate inflationminttokens name swaptokens amount symbol totalsupply totalswappedrpl transfer recipient amount transferfrom sender recipient amount version"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance transfer from to amount delegationtypehash domaintypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber name nonces  numcheckpoints  symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minterchanged minter newminter transfer from to amount delegationtypehash domaintypehash permittypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber minimumtimebetweenmints mint dst rawamount mintcap minter mintingallowedafter name nonces  numcheckpoints  permit owner spender rawamount deadline v r s setminter minter symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "cdp",
+    "text": "approval owner spender value communityissuanceaddressset communityissuanceaddress lqtystakingaddressset lqtystakingaddress lockupcontractfactoryaddressset lockupcontractfactoryaddress transfer from to value oneyearinseconds allowance owner spender approve spender amount balanceof account communityissuanceaddress decimals decreaseallowance spender subtractedvalue domainseparator getdeploymentstarttime getlprewardsentitlement increaseallowance spender addedvalue lockupcontractfactory lqtystakingaddress multisigaddress name nonces owner permit owner spender amount deadline v r s permittypehash sendtolqtystaking sender amount symbol totalsupply transfer recipient amount transferfrom sender recipient amount version"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value initialised operatorchanged previousoperator newoperator transfer from to value emissionsmaxsupply initmintamount allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue init to minter mint to amount minter mintermint to amount name operator reductionpercliff symbol totalcliffs totalsupply transfer recipient amount transferfrom sender recipient amount updateoperator vecrvproxy"
+  },
+  {
+    "label": "derivatives",
+    "text": "approval owner spender value delegatechanged delegator delegatee delegationtype delegatedpowerchanged user amount delegationtype ownershiptransferred previousowner newowner transfer from to value transferallowlistupdated account isallowed transfersrestrictedbeforeupdated transfersrestrictedbefore delegatebytypetypehash delegatetypehash domainseparator eip712domain eip712version initialsupply mintmaxpercent mintmininterval permittypehash transferrestrictionliftednolaterthan mintingrestrictedbefore propositionpowerdelegates  propositionpowersnapshots   propositionpowersnapshotscounts  tokentransferallowlist  totalsupplysnapshots  totalsupplysnapshotscount transfersrestrictedbefore votingdelegates  votingsnapshots   votingsnapshotscounts  addtotokentransferallowlist addressestoadd allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegatebytype delegatee delegationtype delegatebytypebysig delegatee delegationtype nonce expiry v r s getdelegateebytype delegator delegationtype getpoweratblock user blocknumber delegationtype getpowercurrent user delegationtype increaseallowance spender addedvalue mint recipient amount name nonces owner owner permit owner spender value deadline v r s removefromtokentransferallowlist addressestoremove renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner updatetransfersrestrictedbefore transfersrestrictedbefore"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender amount ownerupdated user newowner publiccapabilityupdated functionsig enabled rolecapabilityupdated role functionsig enabled transfer from to amount userroleupdated user role enabled domainseparator allowance   approve spender amount balanceof  burn amount cancall user functionsig decimals doesrolehavecapability role functionsig doesuserhaverole user role getroleswithcapability  getuserroles  iscapabilitypublic  mint to amount name nonces  owner permit owner spender value deadline v r s setowner newowner setpubliccapability functionsig enabled setrolecapability role functionsig enabled setuserrole user role enabled symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "insurance",
+    "text": "removefromwhitelist member changeoperator newoperator name approve spender value totalsupply transferfrom from to value decimals increaseallowance spender addedvalue mint account amount burn amount addtowhitelist member lockformembervote of days operator balanceof owner burnfrom from value symbol islockedformv  decreaseallowance spender subtractedvalue transfer to value operatortransfer from value allowance owner spender whitelisted  whitelisted member blacklisted member transfer from to value approval owner spender value"
+  },
+  {
+    "label": "cdp",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account bonusmigrationperiod burn user amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue lybrafund migrate amount mint user amount name oldlbr owner setbonusmigrationperiod time setlybrafund fund symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "chain",
+    "text": "removebridge bridge name approve spender value totalsupply transferdistribution to value transferfrom from to value permittypehash decimals domainseparator distributionaddress increaseallowance spender addedvalue transferandcall to value data mint account amount bridgepointers  version claimtokens token to advisorsrewarddistributionaddress balanceof account renounceownership isbridge address privateofferingdistributionaddress nonces  owner isowner permit holder spender nonce expiry allowed v r s symbol addbridge bridge bridgelist decreaseallowance spender subtractedvalue transfer to value push to amount move from to amount faddr allowance owner spender pull from amount transferownership newowner bridgecount expirations   bridgeadded bridge bridgeremoved bridge mint to amount transfer from to value data contractfallbackcallfailed from to value transfer from to value approval owner spender value ownershiptransferred previousowner newowner"
+  },
+  {
+    "label": "nft-lending",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "algo-stables",
+    "text": "approval owner spender value fxsburned from to amount fxsminted from to amount roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value votervoteschanged voter previousbalance newbalance defaultadminrole fraxstablecoinadd fxsdaomin allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount checkpoints   decimals decreaseallowance spender subtractedvalue genesissupply getcurrentvotes account getpriorvotes account blocknumber getroleadmin role getrolemember role index getrolemembercount role grantrole role account hasrole role account increaseallowance spender addedvalue mint to amount name numcheckpoints  oracleaddress owneraddress poolburnfrom baddress bamount poolmint maddress mamount renouncerole role account revokerole role account setfraxaddress fraxcontractaddress setfxsmindao minfxs setoracle neworacle setowner owneraddress settimelock newtimelock symbol timelockaddress togglevotes totalsupply trackingvotes transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "liquid-staking",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "nft-marketplace",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value domainseparator addlockups lockups allowance owner spender approve spender amount balanceof account checkpoints account pos decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates account getpasttotalsupply blocknumber getpastvotes account blocknumber getvotes account increaseallowance spender addedvalue lockups  name nonces owner numcheckpoints account owner permit owner spender value deadline v r s renounceownership symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value rolegranted role account sender rolerevoked role account sender snapshot id transfer from to value defaultadminrole domainseparator minterrole permittypehash snapshotrole allowance owner spender approve spender amount balanceof account balanceofat account snapshotid burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue getroleadmin role getrolemember role index getrolemembercount role grantrole role account hasrole role account increaseallowance spender addedvalue mint to amount name nonces  permit owner spender value deadline v r s renouncerole role account revokerole role account snapshot symbol totalsupply totalsupplyat snapshotid transfer recipient amount transferfrom sender recipient amount version"
+  },
+  {
+    "label": "yield",
+    "text": "ammrewardsminted amount airdropminted amount approval owner spender value initialdistributionminted amount minteradded minter minterremoved minter seedshareminted amount transfer from to value treasuryrewardsminted amount airdropmintratio ammrewardsratio inflationratio maxtotalsupply premintratio treasuryrewardsratio treasuryseedratio addminter newminter airdropmintdone allowance owner spender ammgaugemintdone approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue inflationmintedratio initialdistributionmintdone listminters mint account amount mintammrewards ammgauge mintairdrop airdrophandler mintinitialdistribution distribution mintseedshare treasury minttreasuryshare treasuryescrow name renounceminterrights seedsharemintdone symbol totalsupply transfer to amount transferfrom from to amount treasurymintdone"
+  },
+  {
+    "label": "dexes",
+    "text": "name approve spender value totalsupply transferfrom from to value decimals burn value decreaseapproval spender subtractedvalue balanceof owner burnfrom owner value batchtransfer accounts amounts symbol transfer to value increaseapproval spender addedvalue totalburned allowance owner spender approval owner spender value transfer from to value burn burner value"
+  },
+  {
+    "label": "indexes",
+    "text": "changecouncil newcouncil name approve spender value yearlymintableamount totalsupply transferfrom from to value decimals increaseallowance spender addedvalue burn value mintinitialsupply initialreceiver balanceof owner burnfrom from value inflationenabledate symbol decreaseallowance spender subtractedvalue transfer to value nextminting initialtotalsupply mintinflation deployer allowance owner spender council mintinginterval baseunits initialsupplyminted transfer from to value approval owner spender value"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value domainseparator maxsupply addburner who addminter who allowance   approve spender amount balanceof  burn to amount claimownership decimals getburners getminters mint to amount name nonces  owner pendingowner permit owner spender value deadline v r s removeburner who removeminter who symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner direct renounce"
+  },
+  {
+    "label": "rwa",
+    "text": "controller implementation issuer moderator owner resetimplementation impl"
+  },
+  {
+    "label": "leveraged-farming",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minerset miner ownershiptransferred owner newowner transfer from to amount transferallowed delegationtypehash domaintypehash permittypehash allowtransfers allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber manager miner name nonces  numcheckpoints  permit owner spender rawamount deadline v r s setminer miner symbol totalsupply transfer dst rawamount transferfrom src dst rawamount transferownership newmanager transfersallowed"
+  },
+  {
+    "label": "yield",
+    "text": "transfer from to value approval owner spender value updateminingparameters time rate supply setminter minter setadmin admin updateminingparameters startepochtimewrite futureepochtimewrite availablesupply mintableintimeframe start end setminter minter setadmin admin totalsupply allowance owner spender transfer to value transferfrom from to value approve spender value mint to value burn value setname name symbol name symbol decimals balanceof arg0 minter admin miningepoch startepochtime rate"
+  },
+  {
+    "label": "yield-aggregator",
+    "text": "name approve spender amount creationblock totalsupply transferfrom from to amount decimals changecontroller newcontroller balanceofat owner blocknumber version createclonetoken clonetokenname clonedecimalunits clonetokensymbol snapshotblock transfersenabled balanceof owner parenttoken generatetokens owner amount symbol totalsupplyat blocknumber transfer to amount transfersenabled parentsnapshotblock approveandcall spender amount extradata destroytokens owner amount allowance owner spender claimtokens token tokenfactory enabletransfers transfersenabled controller claimedtokens token controller amount transfer from to amount newclonetoken clonetoken snapshotblock approval owner spender amount"
+  },
+  {
+    "label": "indexes",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance transfer from to amount delegationtypehash domaintypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber name nonces  numcheckpoints  symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "dexes",
+    "text": "name approve spender value disabletransfers disable totalsupply transferfrom from to value decimals version standard withdrawtokens token to amount balanceof  acceptownership issue to amount owner symbol destroy from amount transfer to value transfersenabled newowner allowance   transferownership newowner newsmarttoken token issuance amount destruction amount ownerupdate prevowner newowner transfer from to value approval owner spender value"
+  },
+  {
+    "label": "payments",
+    "text": "approval owner spender value approvalbypartition partition owner spender value authorizedoperator operator tokenholder authorizedoperatorbypartition partition operator tokenholder changedpartition frompartition topartition value collateralmanagerregistered collateralmanager minted operator to value data ownerupdate oldvalue newvalue ownershiptransferauthorization authorizedaddress partitionstrategyset flag name implementation revokedoperator operator tokenholder revokedoperatorbypartition partition operator tokenholder swap operator from value transfer from to value transferbypartition frompartition operator from to value data operatordata allowance owner spender allowancebypartition partition owner spender approve spender value approvebypartition partition spender value assumeownership authorizeoperator operator authorizeoperatorbypartition partition operator authorizeownershiptransfer authorizedaddress authorizednewowner balanceof tokenholder balanceofbypartition partition tokenholder canimplementinterfaceforaddress interfacehash  collateralmanagers  decimals decreaseallowance spender subtractedvalue decreaseallowancebypartition partition spender subtractedvalue defaultpartition granularity increaseallowance spender addedvalue increaseallowancebypartition partition spender addedvalue iscollateralmanager collateralmanager isoperator operator tokenholder isoperatorforcollateralmanager partition operator collateralmanager isoperatorforpartition partition operator tokenholder ispartitionstrategy prefix name owner partitionstrategies  partitionsof tokenholder registercollateralmanager revokeoperator operator revokeoperatorbypartition partition operator setpartitionstrategy prefix implementation swap from swaptoken swaptokengraveyard symbol totalpartitions totalsupply totalsupplybypartition  transfer to value transferbypartition partition from to value data operatordata transferfrom from to value"
+  },
+  {
+    "label": "liquid-staking",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance transfer from to amount delegationtypehash domaintypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber name nonces  numcheckpoints  symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "nft-lending",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value domainseparator addlockups lockups allowance owner spender approve spender amount balanceof account checkpoints account pos decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates account getpasttotalsupply blocknumber getpastvotes account blocknumber getvotes account increaseallowance spender addedvalue lockups  name nonces owner numcheckpoints account owner permit owner spender value deadline v r s renounceownership symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "cross-chain",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn guy wad decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint guy wad name owner renounceownership symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "nft-lending",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value defaultadminrole domainseparator minterrole allowance owner spender approve spender amount balanceof account checkpoints account pos decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates account getpasttotalsupply blocknumber getpastvotes account blocknumber getroleadmin role getvotes account grantrole role account hasrole role account increaseallowance spender addedvalue mint to amount name nonces owner numcheckpoints account permit owner spender value deadline v r s renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "indexes",
+    "text": "approval owner spender value ownerchanged oldowner newowner ownernominated newowner roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value votervoteschanged voter previousbalance newbalance defaultadminrole acceptownership allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount checkpoints   decimals decreaseallowance spender subtractedvalue genesissupply getcurrentvotes account getpriorvotes account blocknumber getroleadmin role getrolemember role index getrolemembercount role grantrole role account hasrole role account increaseallowance spender addedvalue mint to amount name nominatenewowner owner nominatedowner numcheckpoints  owner renouncerole role account revokerole role account settimelock newtimelock symbol timelockaddress togglevotes totalsupply trackingvotes transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "insurance",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance transfer from to amount delegationtypehash domaintypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber name nonces  numcheckpoints  symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "algo-stables",
+    "text": "approval owner spender value fpiaddressset addr minteradded minteraddress minterremoved minteraddress ownerchanged oldowner newowner ownernominated newowner tokenminterburned from to amount tokenminterminted from to amount transfer from to value fpitkn acceptownership addminter minteraddress allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue minterburnfrom baddress bamount mintermint maddress mamount minters  mintersarray  name nominatenewowner owner nominatedowner owner removeminter minteraddress setfpiaddress fpicontractaddress symbol timelockaddress totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "lending",
+    "text": "upgraded implementation getimplementation"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner paused account transfer from to value unpaused account allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name owner pause paused renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner unpause"
+  },
+  {
+    "label": "cdp",
+    "text": "approval src guy wad burn guy wad delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance lognote sig guy foo bar wad fax logsetauthority authority logsetowner owner mint guy wad transfer src dst wad delegationtypehash domaintypehash allowance src guy approve guy wad approve guy authority balanceof src burn wad burn guy wad checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber mint guy wad mint wad move src dst wad name nonces  numcheckpoints  owner pull src wad push dst wad setauthority authority setowner owner start stop stopped symbol totalsupply transfer dst wad transferfrom src dst wad"
+  },
+  {
+    "label": "liquid-staking",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance transfer from to amount delegationtypehash domaintypehash permittypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber name nonces  numcheckpoints  permit owner spender rawamount deadline v r s symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "derivatives",
+    "text": "addcredit credit job creditor block amount applycredit job liquidity provider block credit approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance jobadded job block governance jobremoved job block governance keeperbonded keeper block activated bond keeperbonding keeper block active bond keeperdispute keeper block keeperresolved keeper block keeperslashed keeper slasher block slash keeperunbonding keeper block deactive bond keeperunbound keeper block deactivated bond keeperworked credit job keeper block amount removejob job liquidity provider block credit submitjob job liquidity provider block credit transfer from to amount unbondjob job liquidity provider block credit base bond delegationtypehash domainseparator domaintypehash eth fee kprh liquiditybond permittypehash unbond acceptgovernance activate bonding addcredit credit job amount addcrediteth job addjob job addkprcredit job amount addliquiditytojob liquidity job amount addvotes voter amount allowance account spender applycredittojob provider liquidity job approve spender amount approveliquidity liquidity balanceof account blacklist  bond bonding amount bondings   bonds   burn amount checkpoints   credits   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  dispute keeper disputes  firstseen  getcurrentvotes account getjobs getkeepers getpriorvotes account blocknumber governance isbondedkeeper keeper bond minbond earned age iskeeper keeper isminkeeper keeper minbond earned age joblist  jobproposaldelay  jobs  keeperlist  keepers  lastjob  liquidityaccepted  liquidityamount    liquidityamountsunbonding    liquidityapplied    liquiditypairs  liquidityprovided    liquidityunbonding    mint amount name nonces  numcheckpoints  pairs partialunbonding   pendinggovernance pendingbonds   permit owner spender amount deadline v r s receipt credit keeper amount receipteth keeper amount removejob job removeliquidityfromjob liquidity job removevotes voter amount resolve keeper revoke keeper revokeliquidity liquidity setgovernance governance setkeep3rhelper kprh slash bonded keeper amount symbol totalbonded totalsupply transfer dst amount transferfrom src dst amount unbond bonding amount unbondliquidityfromjob liquidity job amount unbondings   votes  withdraw bonding workcompleted  workreceipt keeper amount worked keeper"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash allowance owner spender approve spender amount balanceof account checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator getcurrentvotes account getpriorvotes account blocknumber increaseallowance spender addedvalue mint to amount name nonces  numcheckpoints  owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "dexes",
+    "text": "name approve spender value disabletransfers disable totalsupply transferfrom from to value decimals version standard withdrawtokens token to amount balanceof  acceptownership issue to amount owner symbol destroy from amount transfer to value transfersenabled newowner allowance   transferownership newowner newsmarttoken token issuance amount destruction amount ownerupdate prevowner newowner transfer from to value approval owner spender value"
+  },
+  {
+    "label": "derivatives",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue getcontractid increaseallowance spender addedvalue name symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "cdp",
+    "text": "lockmytokensforever consent name approve spender value totalsupply transferfrom from to value decimals increaseallowance spender addedvalue unpause ispauser account paused renouncepauser balanceof owner addpauser account pause reserveteammemberorearlyinvestor  symbol decreaseallowance spender subtractedvalue transfer to value allowance owner spender accountlocked lockedaccount paused account unpaused account pauseradded account pauserremoved account transfer from to value approval owner spender value"
+  },
+  {
+    "label": "bridge",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value delegationtypehash domainseparator permittypehash allowance   approve spender amount approveandcall spender amount extradata balanceof  burn amount burnfrom account amount cachedchainid cacheddomainseparator checkpoints account pos decimals delegate delegatee delegatebysig signatory delegatee deadline v r s delegates account getpasttotalsupply blocknumber getpastvotes account blocknumber getvotes account mint recipient amount name nonce  numcheckpoints account owner permit owner spender amount deadline v r s recovererc20 token recipient amount recovererc721 token recipient tokenid data renounceownership symbol totalsupply transfer recipient amount transferfrom spender recipient amount transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "cdp",
+    "text": "approval owner spender value dchftokenbalanceupdated user amount emergencystopmintingcollateral asset state ownershiptransferred previousowner newowner stabilitypooladdresschanged newstabilitypooladdress transfer from to value updateborrowerops borrowerops updatetrovemanagers trovemanagers domainseparator permittypehash addborrowerops borrowerops addtrovemanager trovemanager allowance owner spender approve spender amount balanceof account borrowerops  burn account amount chainid decimals decreaseallowance spender subtractedvalue emergencystopminting asset status emergencystopmintingcollateral  increaseallowance spender addedvalue mint asset account amount name nonces owner owner permit owner spender amount deadline v r s removeborrowerops borrowerops removetrovemanager trovemanager renounceownership returnfrompool pooladdress receiver amount sendtopool sender pooladdress amount stabilitypoolmanager symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner trovemanagers  validborrowerops  validtrovemanagers "
+  },
+  {
+    "label": "yield-aggregator",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn from blusdamount chickenbondmanageraddress decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint to blusdamount name owner renounceownership setaddresses chickenbondmanageraddress symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value transfer from to value domainseparator allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name nonces owner permit owner spender value deadline v r s symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "cdp",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownerchanged owner newowner transfer from to amount delegationtypehash domaintypehash permittypehash abolishseizing addtowhitelist user allowance account spender approve spender rawamount balanceof account checkpoints   closethegates decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber mint dst rawamount name nonces  numcheckpoints  openthegates owner permit owner spender rawamount deadline v r s removefromwhitelist user seizable seize src rawamount setowner owner symbol totalsupply tradable transfer dst rawamount transferfrom src dst rawamount whitelist "
+  },
+  {
+    "label": "cdp",
+    "text": "transfer from to value approval owner spender value updateminingparameters time rate supply setminter minter setadmin admin updateminingparameters startepochtimewrite futureepochtimewrite availablesupply mintableintimeframe start end setminter minter setadmin admin totalsupply allowance owner spender transfer to value transferfrom from to value approve spender value mint to value burn value setname name symbol name symbol decimals balanceof arg0 minter admin miningepoch startepochtime rate"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance transfer from to amount delegationtypehash domaintypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber name nonces  numcheckpoints  symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "yield-aggregator",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue gravity increaseallowance spender addedvalue name setgravitycontract gravityaddress symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "bridge",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value addminter minteraddress allowance owner spender approve spender value balanceof owner burn value burnfrom from value decimals decreaseallowance spender subtractedvalue freeze user freezed  increaseallowance spender addedvalue initalsupply isowner mint to value minter  name owner pause paused removeminter minteraddress renounceownership symbol totalsupply transfer to value transferfrom from to value transferownership newowner unfreeze user unpause"
+  },
+  {
+    "label": "lending",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation initialize logic admin data initialize logic data upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "cdp",
+    "text": "approval src guy wad burn guy wad delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance lognote sig guy foo bar wad fax logsetauthority authority logsetowner owner mint guy wad transfer src dst wad delegationtypehash domaintypehash allowance src guy approve guy wad approve guy authority balanceof src burn wad burn guy wad checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber mint guy wad mint wad move src dst wad name nonces  numcheckpoints  owner pull src wad push dst wad setauthority authority setowner owner start stop stopped symbol totalsupply transfer dst wad transferfrom src dst wad"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender amount roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to amount defaultadminrole domainseparator minterrole permittypehash allowance   approve spender amount balanceof  burn amount decimals getroleadmin role grantrole role account hasrole role account mint to amount name nonces  permit owner spender value deadline v r s renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "launchpad",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value domainseparator allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name nonces owner owner permit owner spender value deadline v r s print account amount redeem account amount renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance lptokenclaimed dst value liquidityaddition dst value log log ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash lpgenerationcompleted lpperethunit addliquidity agreestotermsoutlinedinliquiditygenerationparticipationagreement addliquiditytouniswapcorexwethpair allowance owner spender approve spender amount balanceof owner checkpoints   claimlptokens contractstarttimestamp createuniswappairmainnet decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator emergencydrain24hafterliquiditygenerationeventisdone ethcontributed  feedistributor getcurrentvotes account getpriorvotes account blocknumber getsecondsleftinliquiditygenerationevent increaseallowance spender addedvalue initialsupply liquiditygenerationongoing liquiditygenerationparticipationagreement name nonces  numcheckpoints  owner renounceownership setfeedistributor feedistributor setshouldtransferchecker transfercheckeraddress symbol tokenuniswappair totalethcontributed totallptokensminted totalsupply transfer recipient amount transfercheckeraddress transferfrom sender recipient amount transferownership newowner uniswapfactory uniswaprouterv2"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender value balanceof owner burn value decimals decreaseapproval spender subtractedvalue increaseapproval spender addedvalue isminter addr mint to value name removeminter addr setminter addr symbol totalsupply transfer to value transferfrom from to value"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender amount ownerupdated user newowner publiccapabilityupdated functionsig enabled rolecapabilityupdated role functionsig enabled transfer from to amount userroleupdated user role enabled domainseparator allowance   approve spender amount balanceof  burn amount cancall user functionsig decimals doesrolehavecapability role functionsig doesuserhaverole user role getroleswithcapability  getuserroles  iscapabilitypublic  mint to amount name nonces  owner permit owner spender value deadline v r s setowner newowner setpubliccapability functionsig enabled setrolecapability role functionsig enabled setuserrole user role enabled symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minterchanged minter newminter transfer from to amount delegationtypehash domaintypehash permittypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber minimumtimebetweenmints mint dst rawamount mintcap minter mintingallowedafter name nonces  numcheckpoints  permit owner spender rawamount deadline v r s setminter minter symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "synthetics",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value domainseparator allowance owner spender approve spender amount balanceof account checkpoints account pos decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates account getpasttotalsupply blocknumber getpastvotes account blocknumber getvotes account increaseallowance spender addedvalue mint account amount name nonces owner numcheckpoints account owner permit owner spender value deadline v r s renounceownership symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender amount ownerupdated user newowner publiccapabilityupdated functionsig enabled rolecapabilityupdated role functionsig enabled transfer from to amount userroleupdated user role enabled domainseparator allowance   approve spender amount balanceof  burn amount cancall user functionsig decimals doesrolehavecapability role functionsig doesuserhaverole user role getroleswithcapability  getuserroles  iscapabilitypublic  mint to amount name nonces  owner permit owner spender value deadline v r s setowner newowner setpubliccapability functionsig enabled setrolecapability role functionsig enabled setuserrole user role enabled symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "insurance",
+    "text": "approval owner spender amount transfer from to amount domainseparator allowance   approve spender amount balanceof  burn amount decimals mint name nonces  owner permit owner spender value deadline v r s renounceownership symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "options",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "cdp",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownerchanged owner newowner transfer from to amount delegationtypehash domaintypehash permittypehash abolishseizing addtowhitelist user allowance account spender approve spender rawamount balanceof account checkpoints   closethegates decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber mint dst rawamount name nonces  numcheckpoints  openthegates owner permit owner spender rawamount deadline v r s removefromwhitelist user seizable seize src rawamount setowner owner symbol totalsupply tradable transfer dst rawamount transferfrom src dst rawamount whitelist "
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minteradded account minterremoved account transfer from to value decimals delegationtypehash domaintypehash initialsupply maxsupply mintbase addminter account allowance owner spender approve spender value balanceof owner checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber increaseallowance spender addedvalue isminter account mint to value name nonces  numcheckpoints  renounceminter symbol totalsupply transfer to value transferfrom from to value"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance transfer from to amount delegationtypehash domaintypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber name nonces  numcheckpoints  symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "reserve-currency",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account bondedsteth burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue getvirtuebondamt stethamt idolmainaddress idolmarketaddress increaseallowance spender addedvalue incrementbondedsteth incamt name symbol totalsupply transfer to amount transferfrom sender recipient amount virtuebondcum stethamt"
+  },
+  {
+    "label": "liquid-staking",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount minttocontract contract account amount calldata name owner renounceownership symbol totalsupply transfer to amount transferandcall to value data transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "cdp",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value minteradded account minterremoved account operatoradded account operatorremoved account transfer from to value addminter account addoperator account allowance owner spender approve spender amount balanceof account blacklistrecoverabletoken token burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue initialize name symbol decimals initialize initialize nextowner isminter account isoperator account mint account amount name operators  recovertokens token renounceminter renounceoperator symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "leveraged-farming",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value adminrole defaultadminrole domainseparator minterrole acceptadminrole allowance owner spender approve spender amount balanceof account checkpoints account pos decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates account getaddressminter getpasttotalsupply blocknumber getpastvotes account blocknumber getroleadmin role getvotes account grantrole role account hasrole role account increaseallowance spender addedvalue name nonces owner numcheckpoints account permit owner spender value deadline v r s renouncerole role account revokerole role account setadmin newadmin setminter newminter supportsinterface interfaceid symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "prediction-market",
+    "text": "name approve spender value totalsupply transferfrom from to value decimals balanceof owner symbol transfer to value allowance owner spender transfer from to value approval owner spender value"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value transfer from to value decimals allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "nft-marketplace",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred user newowner transfer from to value domainseparator activatelockdrop lockdrop addallowedfrom a isallowed allowance owner spender allowedfrom  approve spender amount balanceof account checkpoints account pos decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates account drop oldtokenamount recipient dropmultiplier enabletransfer getcurrentvotes account getpasttotalsupply blocknumber getpastvotes account blocknumber getpriorvotes account blocknumber getvotes account increaseallowance spender addedvalue lockdrop mint to amount name nonces owner numcheckpoints account owner permit owner spender value deadline v r s symbol totalsupply transfer to amount transferenabled transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "launchpad",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value domainseparator allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name nonces owner owner permit owner spender value deadline v r s print account amount redeem account amount renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value domainseparator allowance owner spender approve spender amount balanceof account checkpoints account pos decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates account getpasttotalsupply blocknumber getpastvotes account blocknumber getvotes account increaseallowance spender addedvalue mint account amount name nonces owner numcheckpoints account owner permit owner spender value deadline v r s renounceownership symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "derivatives",
+    "text": "name approve spender value totalsupply gettournament tournamentid transferfrom from to value numerai isowner addr decimals getround tournamentid roundid delegatecontract standard createround tournamentid roundid endtime resolutiontime releasestake staker tag ethervalue tournamentid roundid successful emergencystop stakeonbehalf staker value tag tournamentid roundid confidence balanceof  tournaments  stopped changeshareable owners required contractupgradable numeraitransfer to value release getstake tournamentid roundid staker tag initialdisbursement stake value tag tournamentid roundid confidence changeapproval spender oldvalue newvalue symbol weeklydisbursement mint value destroystake staker tag tournamentid roundid deploytime disablecontractupgradability transfer to value revoke operation stoppable totalminted hasconfirmed operation owner getowner ownerindex disablestopping withdraw from to value required createtournament tournamentid allowance   claimtokens token changedelegate newdelegate supplycap getmintable previousdelegates  delegatechanged oldaddress newaddress mint value transfer from to value approval owner spender value staked staker tag totalamountstaked confidence tournamentid roundid roundcreated tournamentid roundid endtime resolutiontime tournamentcreated tournamentid stakedestroyed tournamentid roundid stakeraddress tag stakereleased tournamentid roundid stakeraddress tag etherreward confirmation owner operation revoke owner operation"
+  },
+  {
+    "label": "liquid-staking",
+    "text": "approval owner spender value minteradded minter minterremoved minter ownershiptransferred previousowner newowner transfer from to value addminter account allowance owner spender approve spender amount balanceof account burn from amount decimals decreaseallowance spender subtractedvalue getmintercount getmintermember index increaseallowance spender addedvalue isminter account maxtotalsupply mint to amount name owner removeminter account renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner underlying"
+  },
+  {
+    "label": "options",
+    "text": "approval owner spender value roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value transfersallowed transfersallowed adminrole defaultadminrole minterrole transferrole allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue getroleadmin role grantrole role account hasrole role account increaseallowance spender addedvalue mint recipient amount name renouncerole role account revokerole role account settransfersallowed transfersallowed supportsinterface interfaceid symbol totalsupply transfer recipient amount transferfrom sender recipient amount transfersallowed"
+  },
+  {
+    "label": "liquid-staking",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account burn from amount claymain decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint to amount name symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "indexes",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "options",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "liquid-staking",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account burn amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "chain",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "dexes",
+    "text": "governanceaddress governanceiskilled implementationaddress interfaceaddress killgovernance logicaddress updategovernanceaddress governanceaddress updateimplementationaddress implementationaddress updateinterfaceaddress interfaceaddress updatelogicaddress logicaddress"
+  },
+  {
+    "label": "indexes",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner paused account transfer from to value unpaused account allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint to amount name owner pause paused renounceownership symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner unpause"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value domainseparator allowance owner spender approve spender amount balanceof account burnfrom account amount decimals decreaseallowance spender subtractedvalue getcirculatingsupply increaseallowance spender addedvalue multicall data name nonces owner owner permit owner spender value deadline v r s renounceownership segmentmanagement setsupplycalculator supplycalculator supplycalculator symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount cap checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator getcurrentvotes account getpriorvotes account blocknumber increaseallowance spender addedvalue mint to amount name nonces  numcheckpoints  owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value newcurve dao newcurve newdao dao newowner newduration dao newduration newera currentera nexteratime emission newincentiveaddress dao newincentiveaddress transfer from to value dao allowance owner spender approve spender amount balanceof account burn amount burnaddress burnfrom account amount currentera daochange newdao daochangeemissioncurve newcurve daochangeeraduration newduration daochangeincentiveaddress newincentiveaddress daopurge daostartemissions daostopemissions decimals decreaseallowance spender subtractedvalue emissioncurve emitting getdailyemission incentiveaddress increaseallowance spender addedvalue name nexteratime perlin1 secondsperera symbol totalcap totalsupply transfer recipient amount transferfrom sender recipient amount upgrade"
+  },
+  {
+    "label": "dexes",
+    "text": "settransferagent addr state mintingfinished name approve spender value totalsupply secondarysalereservewallet transferfrom from to value setreleaseagent addr decimals mint to amount upgrade value upgradeagent releasetokentransfer upgrademaster mainnetlaunchincentivereservewallet decreaseapproval spender subtractedvalue balanceof owner renounceownership finishminting getupgradestate transferagents  owner symbol released canupgrade transfer to value capitalreservewallet airdropreservewallet totalupgraded releaseagent increaseapproval spender addedvalue setupgradeagent agent allowance owner spender ecosystemgrantsreservewallet transferownership newowner setupgrademaster master updatedtokeninformation newname newsymbol upgrade from to value upgradeagentset agent mint to amount mintfinished ownershiprenounced previousowner ownershiptransferred previousowner newowner approval owner spender value transfer from to value"
+  },
+  {
+    "label": "uncollateralized-lending",
+    "text": "newpendingowner currentowner pendingowner proxyownershiptransferred previousowner newowner upgraded implementation claimproxyownership expiration implementation pendingproxyowner proxyowner setexpiration newexpirationtime transferproxyownership newowner upgradeto implementation"
+  },
+  {
+    "label": "rwa",
+    "text": "accountinactive account feeperyear accountreactive account addbackedgold amount approval owner spender value ownershiptransferred previousowner newowner removegold amount transfer from to value inactivethresholddays supplycap addbackedtokens value allowance owner spender approve spender value backedtreasury balanceof owner balanceofnofees owner calcinactivefee account calcowedfees account calcsendallbalance account calcstoragefee account calctransferfee account value dayssinceactivity account dayssincepaidstoragefee account decimals decreaseallowance spender subtractedvalue feeaddress feeenforcer forcepayfees account increaseallowance spender addedvalue isallfeeexempt account isinactive account isowner isstoragefeeexempt account istransferfeeexempt account name oracleaddress owner paystoragefee redeemaddress renounceownership setaccountinactive account setbackedaddress newbackedaddress setfeeaddress newfeeaddress setfeeenforcer enforcer setfeeexempt account setoracleaddress oracleaddress setredeemaddress newredeemaddress setstoragefeeexempt account setstoragefeegraceperioddays daysgraceperiod settransferfeebasispoints fee settransferfeeexempt account setunbackedaddress newunbackedaddress simulatetransfer from to value storagefee balance dayssincestoragepaid storagefeegraceperioddays symbol totalcirculation totalsupply transfer to value transferfeebasispoints transferfrom from to value transferownership newowner unbackedtreasury unsetfeeexempt account"
+  },
+  {
+    "label": "algo-stables",
+    "text": "approval owner spender value transfer from to value addminter minter allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue governance increaseallowance spender addedvalue mint account amount minters  name removeminter minter setgovernance governance symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "derivatives",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance transfer from to amount maxsupply preminesupply allowance account spender approve spender amount balanceof account burn amount burnfrom account amount checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry signature delegates  getcurrentvotes account getpriorvotes account blocknumber increaseallowance spender addedvalue issuedsupply issuer mint recipient amount name nonces  numcheckpoints  ownershiptransferred permit spender value nonce expiry signature symbol totalsupply transfer recipient amount transferfrom from recipient amount transferownershiptoderivadexproxy derivadexproxy version"
+  },
+  {
+    "label": "prediction-market",
+    "text": "approval owner spender value transfer from to value allowance owner spender allowances   approve spender amount augur balanceof account balances  burnformarket amounttoburn decimals decreaseallowance spender subtractedvalue getlegacyreptoken gettotalmigrated gettotaltheoreticalsupply getuniverse increaseallowance spender addedvalue legacyreptoken migratefromlegacyreputationtoken migratein reporter attotokens migrateoutbypayout payoutnumerators attotokens mintforreportingparticipant amountmigrated mintforwarpsync amounttomint target name parentuniverse symbol totalsupply transfer recipient amount transferfrom sender recipient amount trusteddisputewindowtransfer source destination attotokens trustedmarkettransfer source destination attotokens trustedreportingparticipanttransfer source destination attotokens trusteduniversetransfer source destination attotokens warpsync"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value minterchanged minter newminter ownerchanged oldowner newowner ownernominated newowner transfer from to value domainseparator permittypehash acceptownership allowance owner spender approve spender amount balanceof account burn amount cap decimals decreaseallowance spender subtractedvalue emergencyrecipient emergencywithdraw token increaseallowance spender addedvalue mint to amount minter name nominatenewowner newowner nominatedowner nonces  owner permit owner spender value deadline v r s renounceownership setminter newminter symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "indexes",
+    "text": "name approve spender amount creationblock totalsupply transferfrom from to amount decimals changecontroller newcontroller balanceofat owner blocknumber version createclonetoken clonetokenname clonedecimalunits clonetokensymbol snapshotblock transfersenabled balanceof owner parenttoken generatetokens owner amount symbol totalsupplyat blocknumber transfer to amount transfersenabled parentsnapshotblock approveandcall spender amount extradata destroytokens owner amount allowance owner spender claimtokens token tokenfactory enabletransfers transfersenabled controller claimedtokens token controller amount transfer from to amount newclonetoken clonetoken snapshotblock approval owner spender amount"
+  },
+  {
+    "label": "rwa-lending",
+    "text": "approval owner spender value capupdated who cap paused account roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value unpaused account defaultadminrole minterrole ownerrole pauserrole allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount cap decimals decreaseallowance spender subtractedvalue getroleadmin role getrolemember role index getrolemembercount role grantrole role account hasrole role account increaseallowance spender addedvalue mint account amount name pause paused renouncerole role account revokerole role account setcap cap symbol totalsupply transfer recipient amount transferfrom sender recipient amount unpause"
+  },
+  {
+    "label": "liquid-staking",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation"
+  },
+  {
+    "label": "lending",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint to amount name owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value transfersallowed transfersallowed adminrole defaultadminrole domaintypehash transferrole allowance owner spender approve spender amount balanceof account checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegatecheckpoints   delegates  getcurrentvotes account getpastdelegate account blocknumber getpastvotes account blocknumber getroleadmin role grantrole role account hasrole role account increaseallowance spender addedvalue name nonces  numcheckpoints account renouncerole role account revokerole role account settransfersallowed transfersallowed supportsinterface interfaceid symbol totalsupply transfer recipient amount transferfrom sender recipient amount transfersallowed"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value transfer from to value domainseparator allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue governance increaseallowance spender addedvalue isvault  mint account amount name nonces owner permit owner spender value deadline v r s setgovernance governance setvault vault status symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "rwa-lending",
+    "text": "approval src usr wad transfer src dst wad domainseparator permittypehash allowance   approve usr wad balanceof  burn usr wad burnfrom usr wad decimals deny usr mint usr wad move src dst wad name nonces  permit owner spender value deadline v r s pull usr wad push usr wad rely usr symbol totalsupply transfer dst wad transferfrom src dst wad version wards "
+  },
+  {
+    "label": "cross-chain",
+    "text": "approval owner spender value transfer from to value decimals initialsupply name symbol allowance owner spender approve spender amount approveandcall spender value extradata balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "yield",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "nft-lending",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance transfer from to amount delegationtypehash domaintypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber name nonces  numcheckpoints  symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "yield",
+    "text": "advanced epoch supplyminted approval owner spender value changecanceled configid value changeconfirmed configid value changerequested configid value snapshot id transfer from to value adminconfigid domainseparator epochdurationconfigid inflationbpsconfigid recipientconfigid timelockconfigid advance allowance owner spender approve spender amount balanceof account balanceofat account snapshotid burn amount burnfrom account amount calculateconfigid name cancelchange configid confirmchange configid decimals decreaseallowance spender subtractedvalue getadmin getconfig configid getconfigbyindex index getconfigcount getepochduration getinflationbps getpending configid getpendingbyindex index getpendingcount getrecipient gettimelock increaseallowance spender addedvalue isconfig configid ispending configid name nonces owner permit owner spender value deadline v r s requestchange configid value symbol totalsupply totalsupplyat snapshotid transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "insurance",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value starttime allowance owner spender approve spender amount balanceof account blacksmith decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue migrator mint account amount name owner release treasury vestor blacksmith migrator setblacksmith newblacksmith setmigrator newmigrator symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "insurance",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "bridge",
+    "text": "approval owner spender value minteradded account minterremoved account ownershiptransferred previousowner newowner transfer from to value domainseparator permittypehash addminter account allowance owner spender approve spender amount approveandcall spender value extradata balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue isminter account mint account amount name nonces  owner permit owner spender value deadline v r s renounceminter renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "cdp",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "yield-aggregator",
+    "text": "approval owner spender value transfer from to value data transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue decreaseapproval spender subtractedvalue increaseallowance spender addedvalue increaseapproval spender addedvalue name symbol totalsupply transfer recipient amount transferandcall to value data transferfrom sender recipient amount"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value bdpmaster bdpmasterpending futureeachmint futuretotalamount numberblocksperday partnershipfirstmint partnershiptotalamount teamtotalamount allowance owner spender approve spender amount balanceof account cap confirmmaster decimals decreaseallowance spender subtractedvalue futureamount futurecanmintatblock increaseallowance spender addedvalue mint to amount mintforfuturefarming to mintforpartnership to mintforteam to name owner partnershipamount partnershipmintedatblock renounceownership seedpoolamount setbdpmasterpendingatblock setmaster bdpmaster setpendingmaster bdpmaster startatblock symbol teamamount teammintedatblock totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value founderclaim claimant amount multisigclaim multisig amount ownershiptransferred previousowner newowner staked staker lpamount transfer from to value unstaked staker lpamount rewards allowance owner spender approve spender amount balanceof account claimfounderallocation amount destination claimmultisigallocation decimals decreaseallowance spender subtractedvalue founder founderallocationclaimed increaseallowance spender addedvalue indextoken multisig multisigallocationclaimed name owner renounceownership rewardsquote stakeraddress setindextoken indextokenaddress setmultisigaddress multisigaddress stake lpamount stakerdata  stakingstate stopprogram symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner unstake lpamount"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender amount minterset caller who canmint ownershiptransferred previousowner newowner transfer from to amount domainseparator permittypehash allowance   approve spender amount balanceof  burn account amount decimals isminter  mint account amount minters  minterslength name nonces  owner permit owner spender value deadline v r s renounceownership setminter who canmint symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "nft-lending",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value supplycap allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount name owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance transfer from to amount delegationtypehash domaintypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber name nonces  numcheckpoints  symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "dexes",
+    "text": "transfer from to value approval owner spender value updateminingparameters time rate supply setminter minter setadmin admin updateminingparameters startepochtimewrite futureepochtimewrite availablesupply setminter minter setadmin admin totalsupply allowance owner spender transfer to value transferfrom from to value approve spender value mint to value burn value setname name symbol name symbol decimals balanceof arg0 minter admin miningepoch startepochtime rate"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value setcore core core transfer from to value allowance owner spender approve spender amount balanceof account burnforself amount core decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount name setcore core symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance transfer from to amount delegationtypehash domaintypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber name nonces  numcheckpoints  symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "indexes",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator getcurrentvotes account getpriorvotes account blocknumber increaseallowance spender addedvalue maxrewardmintafterblocks t mint to amount name nonces  numcheckpoints  owner renounceownership startblock symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "lending",
+    "text": "name approve spender amount creationblock totalsupply transferfrom from to amount decimals changecontroller newcontroller balanceofat owner blocknumber version createclonetoken clonetokenname clonedecimalunits clonetokensymbol snapshotblock transfersenabled balanceof owner parenttoken generatetokens owner amount symbol totalsupplyat blocknumber transfer to amount transfersenabled parentsnapshotblock approveandcall spender amount extradata destroytokens owner amount allowance owner spender claimtokens token tokenfactory enabletransfers transfersenabled controller claimedtokens token controller amount transfer from to amount newclonetoken clonetoken snapshotblock approval owner spender amount"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender value newminter oldminter newminter ownershiptransferred previousowner newowner transfer from to value domainseparator allowance owner spender approve spender amount balanceof account burn amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint to amount minter name nonces owner owner permit owner spender value deadline v r s renounceownership setminter newminter symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash allowance owner spender approve spender amount balanceof account checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator getcurrentvotes account getpriorvotes account blocknumber increaseallowance spender addedvalue mint to amount name nonces  numcheckpoints  owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "cdp",
+    "text": "approval owner spender value cage status deny usr lockuptriggeramount amount rely usr transfer from to value transferblockupdate user blocknumer transferblockwait blockwait archadmin domainseparator permittypehash admins  allowance   approve spender value balanceof  burn from value cage live decimals decreaseallowance spender subtractedvalue decreaseallowanceadmin owner spender subtractedvalue deny usr deploymentchainid increaseallowance spender addedvalue live lockuptriggeramt mint to value mintanddelay to value name nonces  permit owner spender value deadline v r s rely usr setarchadmin newarch setlockuptriggeramount amount settransferblockrelease user blocknumber settransferblockwait num symbol totalsupply transfer to value transferblockrelease  transferblockwait transferfrom from to value version"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash allowance owner spender approve spender amount balanceof account checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator distributemars communitytreasury teamtreasury investortreasury getcurrentvotes account getpriorvotes account blocknumber increaseallowance spender addedvalue isowner name nonces  numcheckpoints  owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "algo-stables",
+    "text": "approval owner spender value operatortransferred previousoperator newoperator ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue isoperator mint recipient amount name operator owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferoperator newoperator transferownership newowner"
+  },
+  {
+    "label": "leveraged-farming",
+    "text": "approval owner spender amount ownershiptransferred user newowner setminer miner isminer transfer from to amount domainseparator allowance   approve spender amount balanceof  decimals miners  mint to amount name nonces  owner permit owner spender value deadline v r s setminer miner isminer symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "indexes",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint recipient amount name owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value defaultadminrole minterrole allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue getroleadmin role grantrole role account hasrole role account increaseallowance spender addedvalue maxsupply mint to amount name reductionpercliff renouncerole role account revokerole role account supportsinterface interfaceid symbol totalcliffs totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "synthetics",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance mint to amount newgov oldgov newgov newimplementation oldimplementation newimplementation newincentivizer oldincentivizer newincentivizer newmigrator oldmigrator newmigrator newpendinggov oldpendinggov newpendinggov newrebaser oldrebaser newrebaser rebase epoch prevyamsscalingfactor newyamsscalingfactor transfer from to amount base delegationtypehash domainseparator domaintypehash permittypehash acceptgov setimplementation implementation allowresign becomeimplementationdata setincentivizer incentivizer setmigrator migrator setpendinggov newpendinggov setrebaser rebaser allowance owner spender approve spender amount balanceof owner balanceofunderlying owner checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegatetoimplementation data delegatetoviewimplementation data delegates delegator fragmenttoyam value getcurrentvotes account getpriorvotes account blocknumber gov implementation incentivizer increaseallowance spender addedvalue initsupply internaldecimals maxscalingfactor migrator mint to mintamount name nonces  numcheckpoints  pendinggov permit owner spender value deadline v r s rebase epoch indexdelta positive rebaser rescuetokens token to amount symbol totalsupply transfer dst amount transferfrom src dst amount yamtofragment yam yamsscalingfactor"
+  },
+  {
+    "label": "indexes",
+    "text": "approval owner spender value componentadded component componentremoved component defaultpositionunitedited component realunit externalpositiondataedited component positionmodule data externalpositionunitedited component positionmodule realunit invoked target value data returnvalue manageredited newmanager oldmanager moduleadded module moduleinitialized module moduleremoved module pendingmoduleremoved module positionmoduleadded component positionmodule positionmoduleremoved component positionmodule positionmultiplieredited newmultiplier transfer from to value addcomponent component addexternalpositionmodule component positionmodule addmodule module allowance owner spender approve spender amount balanceof account burn account quantity components  controller decimals decreaseallowance spender subtractedvalue editdefaultpositionunit component realunit editexternalpositiondata component positionmodule data editexternalpositionunit component positionmodule realunit editpositionmultiplier newmultiplier getcomponents getdefaultpositionrealunit component getexternalpositiondata component positionmodule getexternalpositionmodules component getexternalpositionrealunit component positionmodule getmodules getpositions gettotalcomponentrealunits component increaseallowance spender addedvalue initializemodule invoke target value data iscomponent component isexternalpositionmodule component module isinitializedmodule module islocked ispendingmodule module lock locker manager mint account quantity modulestates  modules  name positionmultiplier removecomponent component removeexternalpositionmodule component positionmodule removemodule module removependingmodule module setmanager manager symbol totalsupply transfer recipient amount transferfrom sender recipient amount unlock"
+  },
+  {
+    "label": "insurance",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash addminter addminter allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount checkpoints   decimals decreaseallowance spender subtractedvalue delminter delminter delegate delegatee delegatebysig delegatee nonce expiry v r s getcurrentvotes account getminterlength getpriorvotes account blocknumber increaseallowance spender addedvalue isminter account mint to amount name nonces  numcheckpoints  owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "indexes",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount minttocontract contract account amount calldata name owner renounceownership symbol totalsupply transfer to amount transferandcall to value data transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "indexes",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minterchanged minter newminter transfer from to amount delegationtypehash domaintypehash permittypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber minimumtimebetweenmints mint dst rawamount mintcap minter mintingallowedafter name nonceof account nonces  numcheckpoints  permit owner spender rawamount deadline v r s setminter minter symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash addminter addminter allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount checkpoints   decimals decreaseallowance spender subtractedvalue delminter delminter delegate delegatee delegatebysig delegatee nonce expiry v r s getcurrentvotes account getminterlength getpriorvotes account blocknumber increaseallowance spender addedvalue isminter account mint to amount name nonces  numcheckpoints  owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "cdp",
+    "text": "transfer sender receiver value approval owner spender value quack allowance owner spender transfer receiver amount transferfrom owner receiver amount approve spender amount burn amount name symbol decimals balanceof arg0 totalsupply"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value domainseparator allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint to amount name nonces owner owner permit owner spender value deadline v r s renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value domainseparator allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint to amount name nonces owner owner permit owner spender value deadline v r s renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "options",
+    "text": "approval owner spender value claimvestedtokens beneficiary id amount creategrant beneficiary id creator endtime deposittogrant beneficiary id depositor amount receivedividend token recipient amount settleprofit token term amount snapshot id transfer from to value ethaddress allowance owner spender approve spender amount balanceof account balanceofat account snapshotid balanceofattermend account term claimvestedtokens beneficiary id creategrant beneficiary endtime currentterm decimals decreaseallowance spender subtractedvalue deposittogrant beneficiary id amount dividendat token account term endofterm term expiration getgrant beneficiary id getlastgrantid beneficiary increaseallowance spender addedvalue initialtime interval lasttokenreceived   name paidat token term profitat token term receivedividend token recipient remaininggrantof account settleprofit token startofterm term symbol termoftime time totalremaininggrants totalsupply totalsupplyat snapshotid totalsupplyattermend term transfer recipient amount transferfrom sender recipient amount unreceiveddividend token recipient unsettledprofit token"
+  },
+  {
+    "label": "rwa",
+    "text": "approval owner spender value roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value defaultadminrole routerrole allowance owner spender approve spender amount balanceof account burn from amount cap decimals decreaseallowance spender subtractedvalue getroleadmin role grantrole role account hasrole role account increaseallowance spender addedvalue isbondexpired isprimarymarketactive mint to amount name primarymarketactive renouncerole role account revokerole role account seebondexpirystatus setbondexpiry setprimarymarketactive setup supportsinterface interfaceid symbol termsurl totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value transfer from to value data transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferandcall recipient amount data transferfrom sender recipient amount"
+  },
+  {
+    "label": "indexes",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance deposit dst amount transfer from to value withdrawal src amount delegationtypehash domaintypehash addminter minter allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount cap checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator deposit amount getcurrentvotes account getpriorvotes account blocknumber governance governancerecoverunsupported token to amount increaseallowance spender addedvalue mint to amount minters  name nonces  numcheckpoints  removeminter minter setcap cap setgovernance governance symbol totalsupply transfer recipient amount transferfrom sender recipient amount withdraw amount yfv yfvlockedbalance"
+  },
+  {
+    "label": "cdp",
+    "text": "approval src guy wad burn guy wad delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance lognote sig guy foo bar wad fax logsetauthority authority logsetowner owner mint guy wad transfer src dst wad delegationtypehash domaintypehash allowance src guy approve guy wad approve guy authority balanceof src burn wad burn guy wad checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber mint guy wad mint wad move src dst wad name nonces  numcheckpoints  owner pull src wad push dst wad setauthority authority setowner owner start stop stopped symbol totalsupply transfer dst wad transferfrom src dst wad"
+  },
+  {
+    "label": "uncollateralized-lending",
+    "text": "approval owner spender value roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value transfersallowed transfersallowed adminrole defaultadminrole minterrole transferrole allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue getroleadmin role grantrole role account hasrole role account increaseallowance spender addedvalue mint recipient amount name renouncerole role account revokerole role account settransfersallowed transfersallowed supportsinterface interfaceid symbol totalsupply transfer recipient amount transferfrom sender recipient amount transfersallowed"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount cap checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator getcurrentvotes account getpriorvotes account blocknumber increaseallowance spender addedvalue mint to amount name nonces  numcheckpoints  owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner version"
+  },
+  {
+    "label": "indexes",
+    "text": "approval owner spender value cancel account amount claim receiver amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance lockedbalance account amount maxsupplyallowedafterchanged previousallowedaftervalue newallowedaftervalue maxsupplychanged previousmaxvalue newmaxvalue mintednewtokens account tokensminted newlockout account tokenslocked isteamoradvisor startingvesting endingvesting newrewardsdistributorregistration previousaddress newaddress newtimelockregistration previousaddress newaddress ownershiptransferred previousowner newowner transfer from to value babltokendeploymenttimestamp delegationtypehash domaintypehash maxsupplycap mintcap allowance owner spender approve spender rawamount balanceof account cancelvestedtokens lockedaccount changemaxsupply newmaxsupply newmaxsupplyallowedafter checkpoints   claimmytokens controller decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s prefix delegates  disabletokenstransfers enabletokenstransfers getcheckpoints account id getcurrentvotes account getdelegatee account getmydelegatee getnumberofcheckpoints account getpriorvotes account blocknumber gettimelockregistry increaseallowance spender addedvalue lockedbalance account maxsupply maxsupplyallowed maxsupplyallowedafter mint to amount mintingallowedafter name nonces  numcheckpoints  owner registerlockup receiver amount profile vestingbegin vestingend lastclaim renounceownership rewardsdistributor setrewardsdistributor newrewardsdistributor settimelockregistry newtimelockregistry symbol timelockregistry totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner unlockedbalance account vestedtoken  viewlockedbalance account"
+  },
+  {
+    "label": "dexes",
+    "text": "addedblacklist user approval owner spender value deprecate newaddress destroyedblackfunds blacklisteduser balance issueto to amount ownershiptransferred previousowner newowner params feebasispoints maxfee pause removedblacklist user transfer from to value unpause maxuint totalsupply addblacklist eviluser allowance owner spender allowed   approve spender value balanceof who balances  basispointsrate calamount amounteth price caln tempk calprice tempk decimals deprecate upgradedaddress deprecated destroyblackfunds blacklisteduser getblackliststatus maker getowner isblacklisted  issueto to amount k ktotals  maxbase maxk maxsupply maximumfee name owner pause paused price30 pricebase removeblacklist cleareduser rmissueauthaddr addr setissueauthaddr addr setparams newbasispoints newmaxfee symbol totalsupply transfer to value transferfrom from to value transferownership newowner unpause upgradedaddress withdraw"
+  },
+  {
+    "label": "indexes",
+    "text": "approval owner spender amount newpendingowner previouspendingowner newpendingowner roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to amount burnerrole defaultadminrole domainseparator minterrole acceptownership allowance   approve spender amount balanceof  burn from amount decimals decreaseallowance spender subtractedvalue getroleadmin role grantrole role account hasrole role account increaseallowance spender addedvalue mint to amount name nonces  owner pendingowner permit owner spender value deadline v r s renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "launchpad",
+    "text": "approval owner spender value authorizedoperator operator tokenholder burned operator from amount data operatordata minted operator to amount data operatordata newera time emission ownershiptransferred previousowner newowner revokedoperator operator tokenholder sent operator from to amount data operatordata transfer from to value transferwithdata from to value data domainseparator eraseconds maxsupply allowance holder spender approve spender value authorizeoperator operator balanceof tokenholder burn amount data curve dailyemission dailyemit decimals defaultoperators emitting granularity isoperatorfor operator tokenholder name nextera nonces owner operatorburn account amount data operatordata operatorsend sender recipient amount data operatordata owner permit owner spender value deadline v r s renounceownership reserve revokeoperator operator send recipient amount data setcurve curve setnextera next setreserve reserve symbol toggleemitting totalsupply transfer recipient amount transferandcall to value data transferfrom holder recipient amount transferownership newowner"
+  },
+  {
+    "label": "yield-aggregator",
+    "text": "approval owner spender value transfer from to value addminter minter allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue governance increaseallowance spender addedvalue mint account amount minters  name removeminter minter setgovernance governance symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value treasuryupdated newtreasury adminrole defaultadminrole domainseparator mintmaxpercent mintmininterval allowance owner spender approve spender amount balanceof account checkpoints account pos decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates account getpasttotalsupply blocknumber getpastvotes account blocknumber getroleadmin role getvotes account grantrole role account hasrole role account increaseallowance spender addedvalue mint mintingrestrictedbefore name nonces owner numcheckpoints account permit owner spender value deadline v r s renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer recipient amount transferfrom sender recipient amount treasury updatetreasury newtreasury"
+  },
+  {
+    "label": "reserve-currency",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value canmint defaultadminrole addminter account allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue getroleadmin role grantrole role account hasrole role account increaseallowance spender addedvalue mint to amount name owner removeminter account renounceownership renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "launchpad",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value domainseparator allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name nonces owner owner permit owner spender value deadline v r s print account amount redeem account amount renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "yield-aggregator",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minterchanged minter newminter transfer from to amount delegationtypehash domaintypehash permittypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber maxtotalsupply mint dst rawamount minter name nonces  numcheckpoints  permit owner spender rawamount deadline v r s setminter minter symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "options",
+    "text": "name approve spender value totalsupply transferfrom from to value balances  decimals burn value allowed   tokensalecontract decreaseapproval spender value balanceof who burnfrom from value presaledistributioncontract settokensale tokensale presaledistribution maximumsupply symbol transfer to value transfer to value data contractowner tokensaleisfinished increaseapproval spender value allowance owner spender settokensalefinished transferownership newowner transfer to value data customfallback burn from value transfer from to value approval owner spender value transfer from to value data"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value burning burned amount minting to minter amount paused account transfer from to value unpaused account domainseparator permittypehash allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue manager mint to amount name nonces  pause paused permit owner spender value deadline v r s setname newname setsymbol newsymbol symbol totalsupply transfer recipient amount transferfrom sender recipient amount unpause"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "liquidity-manager",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount auction balanceof account calcsharesandamounts amounteth amountusdc amountosqth totalsupply isflash collectprotocol amounteth amountusdc amountosqth to decimals decreaseallowance spender subtractedvalue deposit amounteth amountusdc amountosqth to amountethmin amountusdcmin amountosqthmin increaseallowance spender addedvalue name owner renounceownership setcomponents uniswapmath vault auction vaultmath vaulttreasury vaultstorage symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner uniswapmath vault vaultmath vaultstorage vaulttreasury withdraw shares amountethmin amountusdcmin amountosqthmin"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn addr amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue inviteamount issue addr amount mine addr amount name owner renounceownership summapri symbol tokenissue totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner updateinviteamount amount updatesummapri addr updatetokenissue addr withdraweth withdrawtoken addr"
+  },
+  {
+    "label": "lending",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation initialize logic admin data initialize logic data upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to amount delegationtypehash domaintypehash allowtransferlock account allowance account spender approve spender rawamount balanceof account burn account amount checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  denytransferlock account getcurrentvotes account getpriorvotes account blocknumber locking  mint account amount name nonces  numcheckpoints  owner renounceownership symbol totalsupply transfer dst rawamount transferfrom src dst rawamount transferlock dst rawamount date transferownership newowner"
+  },
+  {
+    "label": "insurance",
+    "text": "approval owner spender value transfer from to value domainseparator allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name nonces owner permit owner spender value deadline v r s symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "yield",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "yield-aggregator",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account burn from amount decimals decreaseallowance spender subtractedvalue governance increaseallowance spender addedvalue isminter  mint to amount name setgovernance governance setminter minter status symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "liquidity-manager",
+    "text": "approval owner spender value roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value defaultadminrole initialsupply minterrole allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue getroleadmin role getrolemember role index getrolemembercount role grantrole role account hasrole role account increaseallowance spender addedvalue mint to amount name renouncerole role account revokerole role account symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "lending",
+    "text": "approval src guy wad burn guy wad logsetauthority authority logsetowner owner mint guy wad start stop transfer src dst wad allowance   approve guy wad approve guy authority balanceof  burn wad burn guy wad decimals mint guy wad mint wad move src dst wad name owner pull src wad push dst wad setauthority authority setname name setowner owner start stop stopped symbol totalsupply transfer dst wad transferfrom src dst wad"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "dexes",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "dexes",
+    "text": "approval src guy wad burn guy wad logsetauthority authority logsetowner owner mint guy wad start stop transfer src dst wad allowance   approve guy wad approve guy authority balanceof  burn wad burn guy wad decimals mint guy wad mint wad move src dst wad name owner pull src wad push dst wad setauthority authority setname name setowner owner start stop stopped symbol totalsupply transfer dst wad transferfrom src dst wad"
+  },
+  {
+    "label": "lending",
+    "text": "name approve spender amount creationblock totalsupply transferfrom from to amount decimals changecontroller newcontroller createclonetoken clonetokenname clonedecimalunits clonetokensymbol snapshotblock transfersenabled totalsupply balanceofat owner blocknumber version balanceof owner parenttoken symbol totalsupplyat blocknumber transfer to amount transfersenabled parentsnapshotblock approveandcall spender amount extradata allowance owner spender claimtokens token tokenfactory enabletransfers transfersenabled controller claimedtokens token controller amount transfer from to amount newclonetoken clonetoken snapshotblock approval owner spender amount"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash allowance owner spender approve spender amount balanceof account checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator getcurrentvotes account getpriorvotes account blocknumber increaseallowance spender addedvalue mint to amount name nonces  numcheckpoints  owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender amount deposit caller receiver gobblers gootokens fractions feesaccrued feeto fractions performancefee deltak swap caller receiver gootokensin gobblersmultin gootokensout gobblermultout sync goobalance multbalance transfer from to amount vaultmint minter auctionpricepermult poolpricepermult gooconsumed withdraw caller receiver owner gobblers gootokens fractions domainseparator managementfeebps performancefeebps allowance   approve spender amount artgobblers balanceof  blocktimestamplast converttoassets fractions converttofractions gootokens gobblermult decimals deposit gobblers gootokens receiver feeto flaggobbler tokenid flagged flagged  getreserves goo kdebt klast mintgobbler minter name nonces  onerc721received   tokenid  permit owner spender value deadline v r s previewdeposit gobblers gootokens previewswap gobblersin gooin gobblersout gooout previewwithdraw gobblers gootokens pricegobblercumulativelast pricegoocumulativelast safedeposit gobblers gootokens receiver minfractionsout deadline safeswap erroneousgooabs deadline gobblersin gooin gobblersout gooout receiver data safewithdraw gobblers gootokens receiver owner maxfractionsin deadline setfeeto newfeeto setminter newminter skim erc20 swap gobblersin gooin gobblersout gooout receiver data symbol totalassets totalsupply transfer to amount transferfrom from to amount withdraw gobblers gootokens receiver owner"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value one allowance owner spender approve spender amount balanceof account burn value decimals decreaseallowance spender subtractedvalue enableburning enabled increaseallowance spender addedvalue name owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "privacy",
+    "text": "approval owner spender value minteradded account minterremoved account transfer from to value addminter account allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue isminter account mint account amount name renounceminter symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "algo-stables",
+    "text": "approval owner spender value transfer from to value xusdburned from to amount xusdminted from to amount addpool pooladdress allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount collateralratiopaused controlleraddress decimals decreaseallowance spender subtractedvalue ethusdconsumeraddress ethusdprice genesissupply globalcollateralvalue globalcollateralratio increaseallowance spender addedvalue lastcalltime mintingfee name owneraddress poolburnfrom baddress bamount poolmint maddress mamount priceband pricetarget redemptionfee refreshcollateralratio refreshcooldown removepool pooladdress setcontroller controlleraddress setethusdoracle ethusdconsumeraddress setmintingfee minfee setowner owneraddress setpriceband priceband setpricetarget newpricetarget setredemptionfee redfee setrefreshcooldown newcooldown settimelock newtimelock setxusaddress xusaddress setxusdethoracle xusdoracleaddr wethaddress setxusdstep newstep setxusethoracle xusoracleaddr wethaddress symbol timelockaddress togglecollateralratio totalsupply transfer recipient amount transferfrom sender recipient amount wethaddress xusaddress xusethoracleaddress xusprice xusdethoracleaddress xusdinfo xusdpools  xusdpoolsarray  xusdprice xusdstep"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender value ownershiptransferconfirmed previousowner newowner ownershiptransferinitiated previousowner newowner transfer from to value renouncetimeout acceptownership acceptrenounceownership allowance   approve spender amount balanceof  burn account amount cancelrenounceownership decimals decreaseallowance spender amount increaseallowance spender amount initiaterenounceownership isowner mint account amount name owner pendingowner renouncedat symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value transfer from to value acceptownership allowance owner spender approve spender amount balanceof owner changeowner newowner decimals name symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "dexes",
+    "text": "anarchized approval owner spender value newgovernance prevgovernance newgovernance transfer from to value allowance owner spender anarchize anarchizedat approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue forceanarchize forceanarchizeat gov increaseallowance spender addedvalue initialize name symbol minter gov initialize gov mint to amount minter name setanarchypoint timestamp setgovernance gov setminter minter symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minteradded minter minterremoved minter newgovernance new transfer from to value delegationtypehash domaintypehash addminter minter allowance owner spender approve spender amount balanceof account checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator getcurrentvotes account getpriorvotes account blocknumber governance increaseallowance spender addedvalue mint to amount minters  name nonces  numcheckpoints  removeminter minter setgovernance new symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "synthetics",
+    "text": "approval owner spender value operatortransferred previousoperator newoperator ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint recipient amount name operator owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferoperator newoperator transferownership newowner"
+  },
+  {
+    "label": "derivatives",
+    "text": "approval owner spender value transfer from to value vnlconverted converter amount allowance owner spender approve spender amount balanceof account checkeligibility proof convertvnl proof decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue migrationstate mint to tradereward name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender value implchanged oldimpl newimpl transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount cap decimals decreaseallowance spender subtractedvalue impl increaseallowance spender addedvalue mint account amount name setwhitelist towhitelist state symbol totalsupply transfer recipient amount transferfrom sender recipient amount upgradeimpl newimpl whitelist "
+  },
+  {
+    "label": "yield",
+    "text": "name approve spender amount creationblock totalsupply transferfrom from to amount decimals changecontroller newcontroller balanceofat owner blocknumber version createclonetoken clonetokenname clonedecimalunits clonetokensymbol snapshotblock transfersenabled balanceof owner parenttoken generatetokens owner amount symbol totalsupplyat blocknumber transfer to amount transfersenabled parentsnapshotblock approveandcall spender amount extradata destroytokens owner amount allowance owner spender claimtokens token tokenfactory enabletransfers transfersenabled controller claimedtokens token controller amount transfer from to amount newclonetoken clonetoken snapshotblock approval owner spender amount"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value transfer from to value initialsupply allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "farm",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value authorizationused authorizer nonce transfer from to value flashclaim flashprotocol permittypehash transferwithauthorizationtypehash allowance   approve spender value authorizationstate   balanceof  burn value decimals getchainid getdomainseparator mint to value name nonces  permit owner spender value deadline v r s symbol totalsupply transfer to value transferfrom from to value transferwithauthorization from to value validafter validbefore nonce v r s"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash addissuer addr allowance owner spender approve spender value balanceof account burn amount checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator getcurrentvotes account getpriorvotes account blocknumber increaseallowance spender addedvalue isowner issue account amount maxsupply name nonces  numcheckpoints  owner removeissuer addr renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue maxtotalsupply mint to amount name owner renounceownership symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender value roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value defaultadminrole allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue getroleadmin role grantrole role account hasrole role account increaseallowance spender addedvalue name renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "synthetics",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "services",
+    "text": "upgradeto newimplementation upgradetoandcall newimplementation data implementation changeadmin newadmin admin adminchanged previousadmin newadmin upgraded implementation"
+  },
+  {
+    "label": "nft-lending",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value maxsupply allowance owner spender approve spender amount balanceof account burn amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount name owner renounceownership symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "yield-aggregator",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "derivatives",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value maxsupply allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint to wad name owner renounceownership symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner paused account transfer from to value unpaused account allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint to amount name owner pause paused renounceownership symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner unpause"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value excludefromfee excludedaddress excludefromreward excludedaddress includeinfee includedaddress includeinreward includedaddress ownershiptransferred previousowner newowner setautomatedmarketmakerpair pair value setbuyfee marketingfee liquidityfee reflectfee devfee setsellfee marketingfee liquidityfee reflectfee devfee swapandliquify tokensswapped ethreceived tokensintoliquidity swapandliquifyenabledupdated enabled swapethfortokens amountin path swaptokensforeth amountin path transfer from to value transferforeigntoken token amount updateddevaddress dev updatedmarketingaddress marketing buydevfee buyliquidityfee buymarketingfee buytaxfee devtokenstoswap isexcludedmaxtransactionamount  liquiditytokenstoswap marketingtokenstoswap selldevfee sellliquidityfee sellmarketingfee selltaxfee addpresaleaddressforexclusions presaleaddress allowance owner spender approve spender amount automatedmarketmakerpairs  balanceof account decimals decreaseallowance spender subtractedvalue devaddress disabletransferdelay enabletrading excludefromfee account excludefrommaxtransaction updads isex excludefromreward account gettime getunlocktime includeinfee account includeinreward account increaseallowance spender addedvalue isexcludedfromfee account isexcludedfromreward account limitsineffect marketingaddress maxtransactionamount minimumtokensbeforeswapamount name owner reflectionfromtoken tamount deducttransferfee removelimits renounceownership setautomatedmarketmakerpair pair value setbuyfee buytaxfee buyliquidityfee buymarketingfee buydevfee setdevaddress devaddress setgaspricelimit gas setmarketingaddress marketingaddress setsellfee selltaxfee sellliquidityfee sellmarketingfee selldevfee setswapandliquifyenabled enabled swapandliquifyenabled symbol tokenfromreflection ramount totalfees totalsupply tradingactive tradingactiveblock transfer recipient amount transferdelayenabled transferforeigntoken token to transferfrom sender recipient amount transferownership newowner uniswapv2pair uniswapv2router updatemaxamount newnum updateminimumtokensbeforeswap newamount withdrawstucketh"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value transfer from to value balances  totalsupply allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash addminter addminter allowance owner spender approve spender amount balanceof account cap checkpoints   decimals decreaseallowance spender subtractedvalue delminter delminter delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator getcurrentvotes account getminter index getminterlength getpriorvotes account blocknumber increaseallowance spender addedvalue isminter account mint to amount name nonces  numcheckpoints  owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "algo-stables",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minterchanged minter newminter transfer from to amount delegationtypehash domaintypehash permittypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber mint dst rawamount minter name nonces  numcheckpoints  permit owner spender rawamount deadline v r s setminter minter symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value domainseparator permittypehash burnfrom account amount allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount name nonces owner owner permit owner spender amount deadline v r s renounceownership setvault vault symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner vault"
+  },
+  {
+    "label": "cdp",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value minteradded account minterremoved account transfer from to value addminter account allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue isminter account mint account amount name nexus removeminter account renounceminter symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner twapepochchanged previoustwapepochperiod newtwapepochperiod twaporaclechanged previoustwaporacle newtwaporacle twapsourceadded newtwapsource twapsourceremoved removedtwapsource transfer from to value domainseparator permittypehash burnfrom account amount addtwapsource newtwapsourcedexpool allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount changetwapepochperiod newtwapepochperiod changetwaporacle newtwaporacle decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount name nonces owner owner permit owner spender amount deadline v r s removetwapsource twapsourcetoremove renounceownership setvault vault symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner twapepochperiod twaporacle vault"
+  },
+  {
+    "label": "yield-aggregator",
+    "text": "approval owner spender value burned burner burnamount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minted minter receiver mintamount ownershiptransferred previousowner newowner transfer from to value delegationtypehash domaintypehash allowance owner spender approve spender amount balanceof account burn amount checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator getcurrentvotes account getpriorvotes account blocknumber increaseallowance spender addedvalue mint to amount name nonces  numcheckpoints  owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value minteradded account minterremoved account transfer from to value addminter account allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount configaddress decimals decreaseallowance spender subtractedvalue deposit to amount depositfrom from to amount fee from amount increaseallowance spender addedvalue isminter account mint account amount name renounceminter symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "synthetics",
+    "text": "approval owner spender value ownershiptransferred from to transfer from to value acceptownership allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name newowner owner symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance lptokenclaimed dst value liquidityaddition dst value log log ownershiptransferred previousowner newowner transfer from to value delegationtypehash devfundlockedmonths devfundreservepercent domaintypehash hardcapliquidityevent lgeduration lpgenerationcompleted lpinitiallockedperiod lplockforeverpercent lpperethunit onemonth addliquidity agreestotermsoutlinedinliquiditygenerationparticipationagreement r s v addliquiditytouniswapnerdxwethpair addliquiditywithoutsignature agreestotermsoutlinedinliquiditygenerationparticipationagreement allowance owner spender alreadyplaygameusers  approve spender amount balanceof owner checkpoints   confirmdevaddress contractstarttimestamp createuniswappairmainnet decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates delegator devfundaddress devfundtotal emergencydrain24hafterliquiditygenerationeventisdone ethcontributed  feedistributor getallocatedlp user getcurrentvotes account gethardcap getlpreleasestart getpriorvotes account blocknumber getreleasablelptokensminted getsecondsleftinliquiditygenerationevent gettokenuniswappair gettotallptokensminted getuniswapfactory getuniswaprouterv2 increaseallowance spender addedvalue initialsupply isapprovedbysignature joiner r s v isjoinedlge joiner islpgenerationcompleted lgeapprover liquiditygenerationongoing liquiditygenerationparticipationagreement lpreleasestart name nonces  numcheckpoints  owner pendingreleasabledevfund registerlge r s v releaseddevfund renounceownership setdevfundreciever devaddr setfeedistributor feedistributor setshouldtransferchecker transfercheckeraddress symbol tentativedevaddress tokenactivestarttimestamp tokenuniswappair totalethcontributed totallptokensminted totalsupply transfer recipient amount transfercheckeraddress transferfrom sender recipient amount transferownership newowner uniswapfactory uniswaprouterv2 unlockdevfund"
+  },
+  {
+    "label": "lending",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value cap domainseparator allowance owner spender approve spender amount balanceof account collect token decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue initialize name nonces owner owner permit owner spender amount deadline v r s renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "reserve-currency",
+    "text": "approval owner spender value authorityupdated authority transfer from to value domainseparator allowance owner spender approve spender amount authority balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount name nonces owner permit owner spender value deadline v r s setauthority newauthority symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "insurance",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "launchpad",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name owner renounceownership setrestrictionamount amount settradingstart time symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner whitelistaccount account"
+  },
+  {
+    "label": "oracle",
+    "text": "approval owner spender value mint sender etheraddress total totalminusfees witnetfundsreceivedat paused account roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender swap sender witaddress total transfer from to value unpaused account defaultadminrole minterrole pauserrole allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue developer feepercentage getroleadmin role getrolemember role index getrolemembercount role grantrole role account hasrole role account increaseallowance spender addedvalue minimumswap mint etheraddress total witnetfundsreceivedat name pause paused platform renewmintround allowedtomint renouncerole role account revokerole role account supportsinterface interfaceid swap witaddress total symbol totalsupply totalswapped transfer recipient amount transferfrom sender recipient amount unpause updatefees newfees updateminimum newminimum updateplatformwallet newwallet"
+  },
+  {
+    "label": "gaming",
+    "text": "approval owner spender value approved owner spender oldvalue value burnt by from value delegatechanged of from to minted by to value roleupdated by to requested actual transfer from to value transferred by from to value votingpowerchanged of fromval toval delegationtypehash domaintypehash featureburnsonbehalf featuredelegations featuredelegationsonbehalf featureownburns featuretransfers featuretransfersonbehalf featureunsafetransfers roleaccessmanager roleerc20receiver roleerc20sender roletokencreator roletokendestroyer tokenuid allowance owner spender approve spender value balanceof owner burn from value decimals decreaseallowance spender value delegate to delegatewithsig to nonce exp v r s evaluateby operator target desired features getvotingpower of getvotingpowerat of blocknum getvotingpowerhistory of getvotingpowerhistorylength of increaseallowance spender value isfeatureenabled required isoperatorinrole operator required issenderinrole required mint to value name nonces  safetransferfrom from to value data symbol tokenbalances  totalsupply transfer to value transferallowances   transferfrom from to value unsafetransferfrom from to value updatefeatures mask updaterole operator role userroles  votingdelegates  votingpowerhistory  "
+  },
+  {
+    "label": "prediction-market",
+    "text": "approval owner spender value grantsnapshot account ownershiptransferred previousowner newowner revokesnapshot account snapshot id transfer from to value allowance owner spender approve spender amount balanceof account balanceofat account snapshotid cansnapshot account decimals decreaseallowance spender subtractedvalue grantsnapshot account increaseallowance spender addedvalue name owner renounceownership revokesnapshot account snapshot symbol totalsupply totalsupplyat snapshotid transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "dexes",
+    "text": "name approve spender value totalsupply transferfrom from to value decimals cap increaseallowance spender addedvalue mint to value balanceof owner symbol addminter account renounceminter decreaseallowance spender subtractedvalue transfer to value isminter account allowance owner spender minteradded account minterremoved account transfer from to value approval owner spender value"
+  },
+  {
+    "label": "algo-stables",
+    "text": "approval owner spender value roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value defaultadminrole domainseparator minterrole allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue getroleadmin role getrolemember role index getrolemembercount role grantrole role account hasrole role account increaseallowance spender addedvalue mint to amount name nonces owner permit owner spender value deadline v r s renouncerole role account revokerole role account symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "nft-lending",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value mint account amount allowance user spender approve spender value approveandcall spender tokens data balanceof user burn amount decimals mintcontracts  name owner renounceownership setmintaccess account canmint symbol totalsupply transfer to value transferfrom from to value transferownership newowner"
+  },
+  {
+    "label": "reserve-currency",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value domainseparator permittypehash burnfrom account amount allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount name nonces owner owner permit owner spender amount deadline v r s renounceownership setvault vault symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner vault"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount cap decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint to amount name owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "reserve-currency",
+    "text": "approval owner spender value ownershippulled previousowner newowner ownershippushed previousowner newowner transfer from to value domainseparator permittypehash burnfrom account amount allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount name nonces owner owner permit owner spender amount deadline v r s pullmanagement pushmanagement newowner renouncemanagement setvault vault symbol totalsupply transfer recipient amount transferfrom sender recipient amount vault"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value ercswept who to token amount transfer from to value maxtokens sfiminter allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue ercsweep token to governance increaseallowance spender addedvalue mintsfi to amount name setgovernance to setminter to symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minterchanged minter newminter transfer from to amount delegationtypehash domaintypehash permittypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber minimumtimebetweenmints mint dst rawamount mintcap minter mintingallowedafter name nonces  numcheckpoints  permit owner spender rawamount deadline v r s setminter minter symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value claim data0 data1 btcaddr claimtoaddr referreraddr claimassist data0 data1 data2 senderaddr dailydataupdate data0 updateraddr shareratechange data0 stakeid stakeend data0 data1 stakeraddr stakeid stakegoodaccounting data0 data1 stakeraddr stakeid senderaddr stakestart data0 stakeraddr stakeid transfer from to value xflobbyenter data0 memberaddr entryid referreraddr xflobbyexit data0 memberaddr entryid referreraddr allocatedsupply allowance owner spender approve spender amount balanceof account btcaddressclaim rawsatoshis proof claimtoaddr pubkeyx pubkeyy claimflags v r s autostakedays referreraddr btcaddressclaims  btcaddressisclaimable btcaddr rawsatoshis proof btcaddressisvalid btcaddr rawsatoshis proof claimmessagematchessignature claimtoaddr claimparamhash pubkeyx pubkeyy claimflags v r s currentday dailydata  dailydatarange beginday endday dailydataupdate beforeday decimals decreaseallowance spender subtractedvalue globalinfo globals increaseallowance spender addedvalue merkleproofisvalid merkleleaf proof name pubkeytobtcaddress pubkeyx pubkeyy claimflags pubkeytoethaddress pubkeyx pubkeyy stakecount stakeraddr stakeend stakeindex stakeidparam stakegoodaccounting stakeraddr stakeindex stakeidparam stakelists   stakestart newstakedhearts newstakeddays symbol totalsupply transfer recipient amount transferfrom sender recipient amount xflobby  xflobbyenter referreraddr xflobbyentry memberaddr entryid xflobbyexit enterday count xflobbyflush xflobbymembers   xflobbypendingdays memberaddr xflobbyrange beginday endday"
+  },
+  {
+    "label": "lending",
+    "text": "approval src guy wad burn guy wad logsetauthority authority logsetowner owner mint guy wad start stop transfer src dst wad allowance   approve guy wad approve guy authority balanceof  burn wad burn guy wad decimals mint guy wad mint wad move src dst wad name owner pull src wad push dst wad setauthority authority setname name setowner owner start stop stopped symbol totalsupply transfer dst wad transferfrom src dst wad"
+  },
+  {
+    "label": "reserve-currency",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value domainseparator permittypehash burnfrom account amount allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount name nonces owner owner permit owner spender amount deadline v r s renounceownership setvault vault symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner vault"
+  },
+  {
+    "label": "insurance",
+    "text": "approval owner spender value claimed owner amount otherownershiptransfered targetcontract newowner ownershiptransferred previousowner newowner pauseoperatorupdated pauseoperator pausestatusupdated status transfer from to value domainseparator permittypehash allowance owner spender approve spender amount balanceof account burn to value claim decimals ispaused mint to value name nonces  oldarcxtoken owner pauseoperator permit owner spender value deadline v r s renounceownership setpause pausestatus symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferotherownership targetcontract newowner transferownership newowner updatepauseoperator newpauseoperator version"
+  },
+  {
+    "label": "reserve-currency",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value domainseparator permittypehash burnfrom account amount allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount name nonces owner owner permit owner spender amount deadline v r s renounceownership setvault vault symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner vault"
+  },
+  {
+    "label": "algo-stables",
+    "text": "approval owner spender value minteradded account minterremoved account transfer from to value eip712domainseparator eip712permittypehash addminter account allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue isminter account mint account amount name permit owner spender value deadline v r s renounceminter symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "indexes",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "dexes",
+    "text": "name approve spender value totalsupply transferfrom from to value decimals decreaseapproval spender subtractedvalue balanceof owner symbol transfer to value increaseapproval spender addedvalue allowance owner spender transfer from to value approval owner spender value"
+  },
+  {
+    "label": "launchpad",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value burnerrole defaultadminrole domainseparator minterrole allowance owner spender approve spender amount balanceof account burn from amount checkpoints account pos decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates account getpasttotalsupply blocknumber getpastvotes account blocknumber getroleadmin role getrolemember role index getrolemembercount role getvotes account grantrole role account hasrole role account increaseallowance spender addedvalue mint to amount name nonces owner numcheckpoints account permit owner spender value deadline v r s renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "reserve-currency",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value domainseparator allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint to amount name nonces owner owner permit owner spender value deadline v r s renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn addr amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint addr amount minter name owner renounceownership setminter addr symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value operatortransferred previousoperator newoperator ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue isoperator mint recipient amount name operator owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferoperator newoperator transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value operatortransferred previousoperator newoperator ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue isoperator mint recipient amount name operator owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferoperator newoperator transferownership newowner"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value transfer from to value domainseparator allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name nonces owner permit owner spender value deadline v r s symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue init minteraddresses stakingcontract mint account amount name owner renounceownership symbol totalsupply totalsupplyvirtual transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "nft-marketplace",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value supplycap allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount name owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "services",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "options",
+    "text": "approval owner spender value transfer from to value pairaddress acceptgovernance activatepostfirstrebasingstate adjustbalanceofnovestingaccount account amount isaddition allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue distributor gettransactiondetail tx getuserinfo user governance increaseallowance spender addedvalue liquidityrebasingpermitted lptokensinpair name pendinggovernance performliquidityrebasing rebasinglpaddress setbalancecalculator newbalancecalculator setdistributor newdistributor setfullsenderwhitelist account cansendtomaturebalances setimmaturerecipentwhitelist account canrecieveimmaturebalances setnovestingwhitelist account recievesbalanceswithoutvestingprocess setpendinggovernance newgov settokentransferhandler newhandler setwhitelists account cansendtomaturebalances canrecieveimmaturebalances recievesbalanceswithoutvestingprocess symbol tokenbalancehandler tokentransferhandler totalsupply totalsforwallet account transfer recipient amount transferfrom sender recipient amount userinformation user vestingtransactions  "
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender tokens claimrewards user amount reflinkrewards referrer amount reward amount transfer from to tokens whitelistupdated user fromwhitelisted towhitelisted allinfofor user allowance user spender approve spender tokens balanceof user boostrewards burn tokens claim account data proof claiminfofor index user claimnft account data proof claimrewards claimwtf account data proof closingtime decimals disburse amount feemanageraddress feemanagerpercent isclaimednft index isclaimedwtf index isfromwhitelisted address isopen istowhitelisted address isunlocked user lpstakingrewardsaddress merkleroot name nftaddress openingtime owner pairaddress reflinkinfofor user reflinklevel user reflinkpercent user rewardsof user setclosingtime closingtime setfeemanager feemanager setfeemanagerpercent feemanagerpercent setowner owner settransferfee transferfee setwhitelisted address fromwhitelisted towhitelisted stakingrewardsaddress sweep symbol teamaddress totalsupply transfer to tokens transferandcall to tokens data transferfee transferfrom from to tokens treasuryaddress unlock account referrer upgradecost reflinklevel upgradereflink tolevel"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value transfer from to value addrdao addrlp addrstaking amountairedrop amountdao amountlp amountstaking maxsupply mintcallhashtype allowance owner spender approve spender amount balanceof account csigner claim amountv r s decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue minted account name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "services",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "oracle",
+    "text": "approval owner spender value burnerstatusupdated burneraddress burnerstatus minterstatusupdated minteraddress minterstatus ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn amount decimals decreaseallowance spender subtractedvalue getburnerstatus burneraddress getminterstatus minteraddress increaseallowance spender addedvalue mint account amount name owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner updateburnerstatus burnerstatus updateminterstatus minteraddress minterstatus"
+  },
+  {
+    "label": "indexes",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value annualtreasurymintamount dailymintamount activateminting airdroppool allowance owner spender apirewardpool approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue liquiditypool mintairdropshare mintapirewardshare mintliqpoolshare mintmultiplier mintvotestakereward amount name owner renounceownership setairdroppool newaddress setapirewardpool newaddress setliquiditypool newaddress setmintairdropshare newshare setmintapirewardshare newshare setmintliqpoolshare newshare setmintmultiplier newmultiplier setvotingengine votingengineaddr symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner unlocktreasurybyguard unlocktreasurybyowner votingengine withdrawfromtreasury recipient amount"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value mintfinished ownershiptransferred previousowner newowner roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value transferenabled defaultadminrole minterrole operatorrole allowance owner spender approve spender amount approveandcall spender value approveandcall spender value data balanceof account burn amount burnfrom account amount cap decimals decreaseallowance spender subtractedvalue enabletransfer finishminting generator getroleadmin role getrolemember role index getrolemembercount role grantrole role account hasrole role account increaseallowance spender addedvalue mint to value mintingfinished name owner recovererc20 tokenaddress tokenamount renounceownership renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer to value transferandcall to value transferandcall to value data transferenabled transferfrom from to value transferfromandcall from to value data transferfromandcall from to value transferownership newowner version"
+  },
+  {
+    "label": "reserve-currency",
+    "text": "approval owner spender value authorityupdated authority transfer from to value domainseparator allowance owner spender approve spender amount authority balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint account amount name nonces owner permit owner spender value deadline v r s setauthority newauthority symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender amount supplycontrollerchanged prev current transfer from to amount maxsupply allowance owner spender approve spender amount balanceof owner changesupplycontroller newsupplycontroller decimals mint owner amount name supplycontroller symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance holderweightchanged holder amount weight transfer from to amount delegationtypehash domaintypehash permittypehash allowance account spender approve spender rawamount balanceof account born burn rawamount checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber holderdelegation   holderweight  name nonces  numcheckpoints  permit owner spender rawamount deadline v r s resetholderweight holder returnholderdelegation account delegate returnholderunits account atblock setholderdelegation delegate value symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance transfer from to value domainseparator allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount checkpoints account pos decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates account flashfee token amount flashloan receiver token amount data getpasttotalsupply blocknumber getpastvotes account blocknumber getvotes account increaseallowance spender addedvalue maxflashloan token name nonces owner numcheckpoints account permit owner spender value deadline v r s symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "yield",
+    "text": "adminrolegranted beneficiary caller adminroleremoved beneficiary caller approval owner spender value capupdated cap jellyset minterrolegranted beneficiary caller minterroleremoved beneficiary caller operatorrolegranted beneficiary caller operatorroleremoved beneficiary caller paused account roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value unpaused account defaultadminrole minterrole operatorrole addadminrole address addminterrole address addoperatorrole address allowance owner spender approve spender amount availabletomint balanceof account burn amount burnfrom account amount cantransfer from cap decimals decreaseallowance spender subtractedvalue getroleadmin role grantrole role account hasadminrole address hasminterrole address hasoperatorrole address hasrole role account increaseallowance spender addedvalue initaccesscontrols admin mint to amount name paused removeadminrole address removeminterrole address removeoperatorrole address renouncerole role account revokerole role account setcap cap setjelly supportsinterface interfaceid symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "liquid-staking",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "indexes",
+    "text": "approval owner spender value burned from amount changedlicensefee newlicensefee changedmaxsupply newmaxsupply changedpublisher newpublisher deletednewindex sender minted to amount newibratio  newindexsubmitted newlicensefeesubmitted newlicensefee newmaxsupplysubmitted newmaxsupply newpublishersubmitted newpublisher publishednewindex publisher transfer from to value weightsset oneyear timelockduration allowance owner spender approve spender amount auction auctionburn amount balanceof account burn amount changelicensefee newlicensefee changepublisher newpublisher decimals decreaseallowance spender subtractedvalue deletenewindex factory getpendingweights ibratio increaseallowance spender addedvalue initialize proposal auction initialized lastfee licensefee licensefeeinc maxsupply mint amount mintto amount to name pendinglicensefee pendingmaxsupply pendingpublisher pendingweights publishnewindex tokens weights minibratio publisher setnewmaxsupply newmaxsupply setnewweights symbol tokens  totalsupply transfer recipient amount transferfrom sender recipient amount updateibratio newratio validateweights tokens weights weights "
+  },
+  {
+    "label": "cdp",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value mintfinished ownershiptransferred previousowner newowner roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value transferenabled defaultadminrole minterrole operatorrole allowance owner spender approve spender amount approveandcall spender value approveandcall spender value data balanceof account burn amount burnfrom account amount cap decimals decreaseallowance spender subtractedvalue enabletransfer finishminting generator getroleadmin role getrolemember role index getrolemembercount role grantrole role account hasrole role account increaseallowance spender addedvalue mint to value mintingfinished name owner recovererc20 tokenaddress tokenamount renounceownership renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer to value transferandcall to value transferandcall to value data transferenabled transferfrom from to value transferfromandcall from to value data transferfromandcall from to value transferownership newowner version"
+  },
+  {
+    "label": "farm",
+    "text": "approval owner spender amount ownershiptransferred previousowner newowner transfer from to amount domainseparator allowance   approve spender amount balanceof  decimals mint to amount name nonces  owner permit owner spender value deadline v r s renounceownership symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "dexes",
+    "text": "name approve spender value totalsupply transferfrom from to value decimals balanceof owner symbol transfer to value allowance owner spender transfer from to value approval owner spender value"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value canmint defaultadminrole addminter account allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue getroleadmin role grantrole role account hasrole role account increaseallowance spender addedvalue mint to amount name owner removeminter account renounceownership renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "dexes",
+    "text": "ammset pairaddress isamm approval owner spender value discountauthorityfrozen discountauthorityset discountauthority feenumeratorset feenumerator liquidityhubfrozen liquidityhubset liquidityhub offramppairset offramppair ownershiptransferred previousowner newowner transfer from to value allowance owner spender ammpair  approve spender amount balanceof account circulatingsupply decimals decreaseallowance spender subtractedvalue discountauthority enabletrading feedenominator feenumerator freezediscountauthority freezeliquidityhub increaseallowance spender addedvalue liquidityhub maxfeenumerator name offramppair owner renounceownership rescueeth rescuetokens tokenaddress setamm ammaddress isamm setdiscountauthority discountauthority setfeenumerator feenumerator setliquidityhub liquidityhub setofframppair ammaddress symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "derivatives",
+    "text": "approval owner spender value paused account roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value unpaused account defaultadminrole pauserrole allowance owner spender approve spender amount balanceof account burn amount decimals decreaseallowance spender subtractedvalue getroleadmin role grantrole role account hasrole role account increaseallowance spender addedvalue name pause paused renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer to amount transferfrom from to amount unpause"
+  },
+  {
+    "label": "gaming",
+    "text": "approval owner spender value transfer from to value allowance addr spender approve spender value approveandcall spender tokens data balanceof addr decimals decreaseallowance spender subtractedvalue distributepresale min max increaseallowance spender addedvalue initialize presaleaddr name symbol totalsupply transfer to value transferfrom from to value"
+  },
+  {
+    "label": "algo-stables",
+    "text": "approval owner spender value roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value defaultadminrole domainseparator minterrole allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue getroleadmin role getrolemember role index getrolemembercount role grantrole role account hasrole role account increaseallowance spender addedvalue mint to amount name nonces owner permit owner spender value deadline v r s renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "rwa",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minterchanged minter newminter transfer from to amount delegationtypehash domaintypehash permittypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber minimumtimebetweenmints mint dst rawamount mintcap minter mintingallowedafter name nonces  numcheckpoints  permit owner spender rawamount deadline v r s setminter minter symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value authorizationused authorizer nonce changeminter minter transfer from to value permittypehash transferwithauthorizationtypehash allowance   approve spender value authorizationstate   balanceof  burn value changeminter newminter decimals getchainid getdomainseparator mint to value minter name nonces  permit owner spender value deadline v r s symbol totalsupply transfer to value transferfrom from to value transferwithauthorization from to value validafter validbefore nonce v r s"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance newadmin oldadmin newadmin newpendingadmin oldpendingadmin newpendingadmin snapshot id transfer from to value delegationtypehash domaintypehash maxsupply acceptadmin admin allowance owner spender approve spender amount balanceof account balanceofat account snapshotid checkpoints   decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber increaseallowance spender addedvalue name nonces  numcheckpoints  pendingadmin setpendingadmin newpendingadmin snapshot symbol totalsupply totalsupplyat snapshotid transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner paused account transfer from to value unpaused account allowance owner spender approve spender value balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue isowner mint account amount mintstopped name owner pause paused renounceownership stopmint symbol totalsupply transfer to value transferfrom from to value transferownership newowner unpause"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance gtcdistchanged delegator delegatee minterchanged minter newminter transfer from to amount delegationtypehash domaintypehash gtcdist permittypehash allowance account spender approve spender rawamount balanceof account checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegateondist delegator delegatee delegates  getcurrentvotes account getpriorvotes account blocknumber minimumtimebetweenmints mint dst rawamount mintcap minter mintingallowedafter name nonces  numcheckpoints  permit owner spender rawamount deadline v r s setgtcdist gtcdist setminter minter symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value claim claimant amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance merklerootchanged merkleroot ownershiptransferred previousowner newowner transfer from to value domainseparator allowance owner spender approve spender amount balanceof account checkpoints account pos claimperiodends claimtokens amount delegate merkleproof decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates account getpasttotalsupply blocknumber getpastvotes account blocknumber getvotes account increaseallowance spender addedvalue isclaimed index merkleroot minimummintinterval mint dest amount mintcap name nextmint nonces owner numcheckpoints account owner permit owner spender value deadline v r s renounceownership setmerkleroot merkleroot sweep dest symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "services",
+    "text": "name approve spender value totalsupply transferfrom from to value decimals balanceof owner symbol transfer to value allowance owner spender transfer from to value approval owner spender value"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value recovered token amount transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount daoadmin decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name recovererc20 tokenaddress tokenamount symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "nft-marketplace",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer to amount transferfrom from to amount"
+  },
+  {
+    "label": "gaming",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "oracle",
+    "text": "name approve spender value totalsupply transferfrom from to value decimals transferandcall to value data decreaseapproval spender subtractedvalue balanceof owner symbol transfer to value increaseapproval spender addedvalue allowance owner spender transfer from to value data approval owner spender value"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value transfer from to value domainseparator maxyearlyinflation timebetweenmintings allowance owner spender approve spender amount balanceof account cowdao decimals decreaseallowance spender subtractedvalue getstorageat offset length increaseallowance spender addedvalue mint target amount name nonces owner permit owner spender value deadline v r s simulatedelegatecall targetcontract calldatapayload simulatedelegatecallinternal targetcontract calldatapayload symbol timestamplastminting totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value transfer from to value allowance owner spender approve spender amount balanceof account decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue name symbol totalsupply transfer recipient amount transferfrom sender recipient amount"
+  },
+  {
+    "label": "services",
+    "text": "name approve spender value totalsupply transferfrom from to value decimals unpause mint account amount burn value paused decreaseapproval spender subtractedvalue balanceof owner blacklistaddress listaddress isblacklisted pause owner symbol transfer to value increaseapproval spender addedvalue allowance owner spender transferownership newowner mint from to value burn burner value pause unpause ownershiptransferred previousowner newowner blacklist blacklisted value approval owner spender value transfer from to value"
+  },
+  {
+    "label": "services",
+    "text": "settransferagent addr state mintingfinished name approve spender value totalsupply transferfrom from to value setreleaseagent addr decimals mint receiver amount burn burnamount mintagents  setmintagent addr state upgrade value settokeninformation name symbol upgradeagent releasetokentransfer upgrademaster balanceof owner getupgradestate transferagents  owner symbol released canupgrade transfer to value totalupgraded releaseagent setupgradeagent agent allowance owner spender istoken transferownership newowner burnaddress setupgrademaster master burned burner burnedamount updatedtokeninformation newname newsymbol upgrade from to value upgradeagentset agent mintingagentchanged addr state minted receiver amount approval owner spender value transfer from to value"
+  },
+  {
+    "label": "cross-chain",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint to amount name owner renounceownership symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "indexes",
+    "text": "adminchanged previousadmin newadmin beaconupgraded beacon upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "yield",
+    "text": "approval owner spender value distributionconfigupdate prevvalue newvalue sender logicupdate prevlogic newlogic sender paused account roleadminchanged role previousadminrole newadminrole rolegranted role account sender rolerevoked role account sender transfer from to value unpaused account defaultadminrole k managedistributionconfigrole managerole mintrole pauserole allowance owner spender approve spender amount balanceof account burn amount burnfrom account amount cap decimals decreaseallowance spender subtractedvalue distributionconfig getroleadmin role grantrole role account hasrole role account increaseallowance spender addedvalue logic mint amount multicall data name pause paused predicttransfer from to amount renouncerole role account revokerole role account supportsinterface interfaceid symbol totalsupply transfer to amount transferfrom from to amount unpause updatedistributionconfig newconfig updatelogic newlogic"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value ownershiptransferred previousowner newowner transfer from to value allowance owner spender approve spender amount balanceof account burn addr amount decimals decreaseallowance spender subtractedvalue increaseallowance spender addedvalue mint addr amount minter name owner renounceownership setminter addr symbol totalsupply transfer recipient amount transferfrom sender recipient amount transferownership newowner"
+  },
+  {
+    "label": "services",
+    "text": "adminchanged previousadmin newadmin upgraded implementation admin changeadmin newadmin implementation upgradeto newimplementation upgradetoandcall newimplementation data"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender amount delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance minterchanged minter newminter transfer from to amount delegationtypehash domaintypehash permittypehash allowance account spender approve spender rawamount balanceof account burn rawamount burnfrom account rawamount checkpoints   decimals delegate delegatee delegatebysig delegatee nonce expiry v r s delegates  getcurrentvotes account getpriorvotes account blocknumber minimumtimebetweenmints mint dst rawamount mintcap minter mintingallowedafter name nonces  numcheckpoints  permit owner spender rawamount deadline v r s setminter minter symbol totalsupply transfer dst rawamount transferfrom src dst rawamount"
+  },
+  {
+    "label": "services",
+    "text": "approval owner spender value delegatechanged delegator fromdelegate todelegate delegatevoteschanged delegate previousbalance newbalance ownershiptransferred previousowner newowner transfer from to value domainseparator allowance owner spender approve spender amount balanceof account burn from amount checkpoints account pos decimals decreaseallowance spender subtractedvalue delegate delegatee delegatebysig delegatee nonce expiry v r s delegates account getpasttotalsupply blocknumber getpastvotes account blocknumber getvotes account increaseallowance spender addedvalue mint to amount name nonces owner numcheckpoints account owner permit owner spender value deadline v r s renounceownership symbol totalsupply transfer to amount transferfrom from to amount transferownership newowner"
+  },
+  {
+    "label": "dexes",
+    "text": "approval owner spender value opentrading tradingopenblock blockstoblacklist ownershiptransferred previousowner newowner setbuyfee buymarketingfee buydreamfee buyliquidityfee setmaxbuyamount newmaxbuyamount setmaxsellamount newmaxsellamount setmaxwalletamount newmaxwalletamount setsellfee sellmarketingfee selldreamfee sellliquidityfee setswaptokensatamount newswaptokensatamount settransferfee transfermarketingfee transferdreamfee transferliquidityfee transfer from to value verifyhuman signer feedivisor allowance owner spender approve spender amount balanceof account buydreamfee buyliquidityfee buymarketingfee cooldownenabled decimals decreaseallowance spender subtractedvalue distributefees dreamwalletaddress feesenabled humanverified  increaseallowance spender addedvalue isblacklisted wallet liquiditywalletaddress marketingwalletaddress maxbuyamount maxsellamount maxwalletamount name opentrading blocks owner removelimits renounceownership selldreamfee sellliquidityfee sellmarketingfee setblacklisted accounts isbl setbuyfee buymarketingfee buydreamfee buyliquidityfee setcooldownblocks blocks setcooldownenabled onoff setdreamwalletaddress dreamwalletaddress setexcludefrommaxtransaction accounts isex setexcludedfromfees accounts isex setfeesenabled onoff sethumanverificationrequired onoff setliquiditywalletaddress liquiditywalletaddress setmarketingwalletaddress marketingwalletaddress setmaxbuyamount maxbuyamount setmaxsellamount maxsellamount setmaxwalletamount maxwalletamount setsellfee sellmarketingfee selldreamfee sellliquidityfee setsigneraddress signeraddress setswapenabled onoff setswaptokensatamount swaptokensatamount settransferfee transfermarketingfee transferdreamfee transferliquidityfee settransferfeesenabled onoff swapenabled symbol totalsupply tradingopen tradingopenblock transfer to amount transferdreamfee transferfeesenabled transferfrom from to amount transferliquidityfee transfermarketingfee transferownership newowner unclog verifyhuman v r s withdrawstucketh withdrawstucktokens tkn"
+  }
+]
