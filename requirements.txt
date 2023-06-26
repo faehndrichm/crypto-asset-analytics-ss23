@@ -1,0 +1,2 @@
+pykeen==1.9.0
+tensorboard
