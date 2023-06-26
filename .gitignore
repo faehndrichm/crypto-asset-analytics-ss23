@@ -1,6 +1,10 @@
 .idea
 .vscode
 scripts/idea.
+scripts/sanc
+scripts/eth_mainnet
+scripts/eth_mainnet_kg
+*.abi.json
 
 smart-contract-sanctuary-ethereum
 etherscan-labels-main
