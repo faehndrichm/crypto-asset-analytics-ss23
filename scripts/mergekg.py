@@ -22,13 +22,4 @@ if __name__=="__main__":
                 if ext == '.kg':
                     print(filename)
                     os.system(f"type {fullfile} >> scs_eth_mainnet.tsv")
-        #             stop = True
-        #             break
-        # if stop: break
-    #         with open(fullfile) as fi:
-    #             content = fi.read()
-    #         if not content.startswith('['):
-    #             # the document is not a JSON document (text "The Contracts is not verified")
-    #             print(fullfile)
-    #             total_unverified += 1
-    # print(f"{total_unverified} / {total_count} : {total_count-total_unverified}")        
+                    os.system(f"echo. >> scs_eth_mainnet.tsv")
